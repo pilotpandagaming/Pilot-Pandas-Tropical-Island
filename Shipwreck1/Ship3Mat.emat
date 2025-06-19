@@ -1,0 +1,6 @@
+MatPBRBasic {
+ Cull none
+ BCRMap "{CBC0AD8A155CFA0A}Shipwreck1/4k/BCR3.edds"
+ NormalPower 0.5
+ NMOMap "{2B5A7AD9CFA93385}Shipwreck1/4k/NMO3.edds"
+}

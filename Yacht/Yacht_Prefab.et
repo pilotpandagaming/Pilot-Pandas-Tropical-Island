@@ -1,0 +1,19 @@
+GenericEntity {
+ ID "65A61410727BC646"
+ components {
+  MeshObject "{65A565E86DB4F927}" {
+   Object "{AAA5A6905F48AA61}Yacht/yacht.xob"
+  }
+  RigidBody "{65A565EFA5C46FE2}" {
+   Active Active
+   Gravity 0
+   SimState Collision
+   ResponseIndex "Normal"
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 2840.85 1.37 2396.307
+ angleY 22.9
+ scale 3
+}

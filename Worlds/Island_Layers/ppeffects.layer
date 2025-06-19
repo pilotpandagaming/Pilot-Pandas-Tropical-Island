@@ -1,0 +1,39 @@
+$grp GenericWorldPPEffect {
+ ssr {
+  coords 3782.426 199.274 3781.745
+  Priority 0
+ }
+ godrays {
+  coords 2711.219 94.467 3365.018
+  Priority 1
+  Profile 1
+ }
+ underwater {
+  coords 2711.219 94.467 3365.018
+  Priority 2
+  Profile 5
+ }
+ rain {
+  coords 2711.219 94.467 3365.018
+  Profile 7
+ }
+ ssdo {
+  coords 2711.219 94.467 3365.018
+  Priority 14
+  Profile 3
+ }
+ hbao {
+  coords 2711.219 94.467 3365.018
+  Priority 15
+ }
+ hhdr {
+  coords 2774.471 70.59 3316.222
+  Priority 16
+  Profile 2
+ }
+ ppaa {
+  coords 2777.689 69.594 3316.868
+  Priority 17
+  Profile 6
+ }
+}

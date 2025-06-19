@@ -1,0 +1,8 @@
+MatPBRBasic {
+ Color 0 0.954 1 0.263
+ Cull none
+ SpecularMul 0.44
+ RoughnessScale 0.662
+ BCRMap "{198E9209A849AE39}Assets/Structures/BuildingsParts/Windows/Data/opacitytest.edds"
+ OpacityMap "{198E9209A849AE39}Assets/Structures/BuildingsParts/Windows/Data/opacitytest.edds"
+}

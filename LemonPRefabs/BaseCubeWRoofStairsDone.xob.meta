@@ -1,0 +1,74 @@
+MetaFileClass {
+ Name "{2F95D30AC3EECB3D}LemonPRefabs/BaseCubeWRoofStairsDone.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65A308A9DC7B08F0}" {
+     SourceMaterial "BoxBaseMat"
+     AssignedMaterial "{8CACB22D92B90D79}LemonPRefabs/Materials/BoxBaseMat.emat"
+    }
+    MaterialAssignClass "{65A308A9DC7B08DC}" {
+     SourceMaterial "BocFloorMat"
+     AssignedMaterial "{6390E02797CCD9A5}LemonPRefabs/Materials/BoxFloorMat.emat"
+    }
+    MaterialAssignClass "{65A308A9DC7B08D8}" {
+     SourceMaterial "BoxStairsMat"
+     AssignedMaterial "{6390E02797CCD9A5}LemonPRefabs/Materials/BoxFloorMat.emat"
+    }
+    MaterialAssignClass "{65A308A9DC7B08D5}" {
+     SourceMaterial "BoxRoofMat"
+     AssignedMaterial "{6390E02797CCD9A5}LemonPRefabs/Materials/BoxFloorMat.emat"
+    }
+    MaterialAssignClass "{65A308A9DC7B08D2}" {
+     SourceMaterial "BoxRoofBarricades"
+     AssignedMaterial "{6390E02797CCD9A5}LemonPRefabs/Materials/BoxFloorMat.emat"
+    }
+   }
+   MeshParams {
+    MeshParam "4WayWindow_02" {
+    }
+    MeshParam Floor {
+    }
+    MeshParam Roof_02 {
+    }
+    MeshParam Stairs {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_4WayWindow {
+     SurfaceProperties {
+      "{1BB2DA0741DBECD6}BoxBaseMat.gamemat"
+      "{93EC197B5FFF55B2}BocFloorMat.gamemat"
+      "{F2DC066408760FC5}BoxRoofMat.gamemat"
+      "{D566A5ED28C0A81A}BoxRoofBarricades.gamemat"
+      "{DDFC99897010D7B3}BoxStairsMat.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{65A308A9C3E458E3}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{65A308A9C3E4586E}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{65A308A9C3E4582F}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{65A308A9C3E45807}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{65A308A9C3E45BE4}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{65A308A9C3E45BBF}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

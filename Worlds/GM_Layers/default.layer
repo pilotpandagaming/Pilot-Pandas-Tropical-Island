@@ -1,0 +1,27 @@
+SCR_GameModeEditor GameMode_Editor_Full1 : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
+ coords 1057.526 181.975 3762.2
+}
+$grp PolylineShapeEntity {
+ {
+  coords 299.073 192.602 1660.182
+  Points {
+   ShapePoint "{65A2074C4E1446E4}" {
+    Position -130.157 -103.846 941.201
+   }
+  }
+ }
+ {
+  coords 169.139 89.012 2599.724
+ }
+ {
+  coords 299.073 192.602 1660.182
+  Points {
+   ShapePoint "{65A2074C5281DC0F}" {
+    Position -172.17 -96.29 941.201
+   }
+   ShapePoint "{65A2074CAC5AE642}" {
+    Position -128.94 -103.039 935.548
+   }
+  }
+ }
+}

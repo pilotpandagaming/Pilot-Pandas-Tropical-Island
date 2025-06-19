@@ -1,0 +1,23 @@
+GameProject {
+ ID "Tropical Island"
+ GUID "65A017AC260DE4A5"
+ TITLE "Tropical Island"
+ Dependencies {
+  "58D0FB3206B6F859" "5E72B9AF7AD0CC29"
+ }
+ Configurations {
+  GameProjectConfig PC {
+   WorldFile "{7C928EB83311BE1F}Worlds/GM.ent"
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

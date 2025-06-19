@@ -1,0 +1,21 @@
+# Ignore backups and logs
+*.bak
+*.log
+*.tmp
+
+# Ignore local config
+*.cfg
+*.local
+*.lock
+
+# Ignore build output
+*.pak
+*.cache
+build/
+dist/
+
+# Optional: exclude previews and media
+*.mp4
+*.png
+*.dds
+*.jpg

@@ -1,0 +1,80 @@
+MatOcean {
+ Color 0.077 0.381 0.299 1
+ DiffuseIBL 0.539 0.929 1 1
+ Diffuse 0.82 0.851 0.937 1
+ Ambient 0.655 0.71 0.875 1
+ AddWetness 1
+ SurfaceProperties "{B4E63D2CA999C331}Common/Materials/Game/water.gamemat"
+ NormalMap "{616ED4DD455DF4CB}Terrains/Common/Water/_SharedData/Waves/Waves_01_N.edds"
+ NormalPowerMax 0.3
+ NormalMapping 30
+ SunNormalMulMin 0.25
+ WaterVisibility 57.36
+ HalfLightDistance 100
+ RefractOffset 0
+ RefractScale 0.2
+ ChromAberation 0.05
+ UnderWaterMaterial "{5366CEDE2A151631}Terrains/Common/Water/UnderWater/oceanUnderwater.emat"
+ CausticMap "{69750C9CCD3FE588}Terrains/Common/Water/Caustic/caustics_00.edds" "{9D7D4B04C0E28DFC}Terrains/Common/Water/Caustic/caustics_01.edds" "{C39562477F6F03F3}Terrains/Common/Water/Caustic/caustics_02.edds" "{379D25DF72B26B87}Terrains/Common/Water/Caustic/caustics_03.edds" "{7E4530C000741FED}Terrains/Common/Water/Caustic/caustics_04.edds" "{8A4D77580DA97799}Terrains/Common/Water/Caustic/caustics_05.edds" "{D4A55E1BB224F996}Terrains/Common/Water/Caustic/caustics_06.edds" "{20AD1983BFF991E2}Terrains/Common/Water/Caustic/caustics_07.edds" "{4715742557A81142}Terrains/Common/Water/Caustic/caustics_08.edds" "{B31D33BD5A757936}Terrains/Common/Water/Caustic/caustics_09.edds" "{AEB99C013869A684}Terrains/Common/Water/Caustic/caustics_10.edds" "{5AB1DB9935B4CEF0}Terrains/Common/Water/Caustic/caustics_11.edds" "{0459F2DA8A3940FF}Terrains/Common/Water/Caustic/caustics_12.edds" "{F051B54287E4288B}Terrains/Common/Water/Caustic/caustics_13.edds" "{B989A05DF5225CE1}Terrains/Common/Water/Caustic/caustics_14.edds" "{4D81E7C5F8FF3495}Terrains/Common/Water/Caustic/caustics_15.edds" "{1369CE864772BA9A}Terrains/Common/Water/Caustic/caustics_16.edds" "{E761891E4AAFD2EE}Terrains/Common/Water/Caustic/caustics_17.edds" "{80D9E4B8A2FE524E}Terrains/Common/Water/Caustic/caustics_18.edds" "{74D1A320AF233A3A}Terrains/Common/Water/Caustic/caustics_19.edds" "{A41CCC4C8E795503}Terrains/Common/Water/Caustic/caustics_20.edds" "{50148BD483A43D77}Terrains/Common/Water/Caustic/caustics_21.edds" "{0EFCA2973C29B378}Terrains/Common/Water/Caustic/caustics_22.edds" "{FAF4E50F31F4DB0C}Terrains/Common/Water/Caustic/caustics_23.edds" "{B32CF0104332AF66}Terrains/Common/Water/Caustic/caustics_24.edds" "{4724B7884EEFC712}Terrains/Common/Water/Caustic/caustics_25.edds" "{19CC9ECBF162491D}Terrains/Common/Water/Caustic/caustics_26.edds" "{EDC4D953FCBF2169}Terrains/Common/Water/Caustic/caustics_27.edds" "{8A7CB4F514EEA1C9}Terrains/Common/Water/Caustic/caustics_28.edds" "{7E74F36D1933C9BD}Terrains/Common/Water/Caustic/caustics_29.edds" anim( 20 )
+ CausticUVScale 5
+ Caustic 2
+ WetFloor 0.5
+ ReflectionColor 1 1 1 0
+ Fresnel 0
+ FresnelRange 0.46
+ FoamMap "{96D5B7515BE8EA2D}Terrains/Common/Water/_SharedData/Foam/Foam_01_MASK.edds"
+ FoamTerrainBlend 0.1
+ FoamMapping 100
+ FoamMove 0.01
+ FoamPower 0.3
+ FoamMaskSharpness 0.1
+ FoamColor 0.361 0.424 0.401 1
+ DeepMapCoord 0 0 4096 4096
+ OceanScatteringColor 0.005 0.109 0.08 1
+ CoastColor 0.108 0.371 0.208 1
+ CrestWaveLuminance 5
+ ScatteringVisibility 1
+ ScatteringSharpness 0.16
+ ShoreNoiseTex "{AB46D26F5C81B5A4}Assets/_SharedData/DetailMask/ST_Noise_01_Mask1.edds"
+ ShoreWaveLength 25
+ ShoreWaveAmplitude 1
+ ShoreWaveSharpness 0.8
+ ShoreWaveWindInfluence 1
+ ShoreWaveOnShoreHeight 2
+ ShoreWavePhaseNoiseStrength 2
+ ShoreWavePhaseNoiseScale 0.04
+ ShoreWaveNormalStrength 0.9
+ ShoreWaveNormalBlendNear 1
+ ShoreWaveDampeningDepthStart 0.2
+ ShoreWaveDampeningDistanceStart 0
+ ShoreWaveDampeningDistanceCoef 3
+ ShoreFoam1Power 2
+ ShoreFoam1FadeOutSize 1
+ ShoreFoam1AmplitudeStart 0
+ ShoreFoam1AmplitudeFull 1
+ ShoreFoam2FadeOutSize 0.5
+ ShoreFoam2AmplitudeStart 0.8
+ ShoreFoam2AmplitudeFull 1
+ ShoreFoamFadeInStart 0.96
+ ShoreFoamFadeInSize 0.05
+ ShoreFoamFadeInNoise 0.25
+ ShoreFoamFadeInNoiseWorldSize 150
+ ShoreFoamNoise1Offset -0.3
+ ShoreFoamNoise1WorldSize 300
+ ShoreFoamNoise2WorldSize 200
+ ShoreFoamBubblesCoef 2
+ ShoreFoamBubblesExponent 1.3
+ ShoreFoamBubblesNoiseCoef 1
+ ShorePeaksExponent 0.373
+ ShorePeaksSimpleTexture "{CF6AC0A36BE97BD0}Terrains/Common/Water/_SharedData/Sim/ShoreWaveSim_01_MASK.edds"
+ ShorePeaksSimpleScale 0.03
+ ShorePeaksSimpleSpeed 0.001
+ ShoreSmallWavesWaveLength 5
+ ShoreSmallWavesAmplitude 0.02
+ ShoreSmallWavesSpeedCoef 1
+ ShoreSmallWavesOnShoreHeight 0.04
+ ShoreSmallWavesNormalStrength 0.99
+ ShoreSmallWavesPhaseNoiseCoef 2
+ ShoreSmallWavesDampeningDistanceStart 0.1
+ ShoreSmallWavesDampeningDistanceCoef 5
+}

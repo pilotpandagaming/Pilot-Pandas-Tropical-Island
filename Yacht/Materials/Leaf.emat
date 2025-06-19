@@ -1,0 +1,18 @@
+MatPBRBasic {
+ Color 0 1 0.122 1
+ Cull none
+ Sort near
+ CastShadow 0
+ OccludeRain 0
+ OccludeWetness 0
+ SpecularMul 0.26
+ WetnessScale 0
+ PorosityScale 0
+ AlphaTest 0.265
+ AlphaMul 1.176
+ RoughnessScale 5
+ MetalnessScale 0
+ BCRMap "{E059120603C17CDE}Yacht/Textures/BaseColorRoughness_to_BCR_Map_BCR_Map_Output.edds"
+ OpacityMap "{5C1868B7DE08DC2E}Yacht/Textures/cj_leaf_cheesecj_leaf_cheese_a.edds"
+ ParallaxMidlePlane 0.676
+}

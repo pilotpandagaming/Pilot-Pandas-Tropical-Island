@@ -1,0 +1,3 @@
+TerrainMaterial : "{5E80F5F438B08C00}Terrains/Common/Surfaces/Grass_01.emat" {
+ PlantMat "{23FA434F2D72F39C}Assets/Clutter/Procedural/cp_grass_01lerp.emat"
+}

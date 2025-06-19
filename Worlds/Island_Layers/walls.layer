@@ -1,0 +1,139 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords 327.524 -41.8 4229.892
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords 4122.202 32.983 3054.715
+  angleY 90
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords 4122.202 9.031 2425.827
+  angleY 90
+  angleZ 7.018
+  scale 14.5
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords -151.832 -45.51 1851.305
+  angleY -90
+  angleZ -6.909
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords 3682.198 -41.8 4229.892
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords 1056.866 -29.521 4229.892
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords 4122.202 32.983 3743.673
+  angleY 90
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords 1687.884 21.09 4229.892
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords 2474.619 -41.8 4229.892
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords 3239.914 -41.8 4229.892
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords -151.832 -41.8 3801.715
+  angleY -90
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords -151.832 -41.8 3096.047
+  angleY -90
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords -151.832 28.616 2430.032
+  angleY -90
+  scale 24.8
+ }
+ {
+  components {
+   MeshObject "{65A03A31C6CAA0E1}" {
+    Object "{E63B1BA9839E3EB3}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall_half.xob"
+   }
+  }
+  coords -151.832 66.866 1837.688
+  angleY -90
+  angleZ -6.909
+  scale 24.8
+ }
+}

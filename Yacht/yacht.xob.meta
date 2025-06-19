@@ -1,0 +1,204 @@
+MetaFileClass {
+ Name "{AAA5A6905F48AA61}Yacht/yacht.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65A565E4B37D067B}" {
+     SourceMaterial "CJ_Boat_1"
+     AssignedMaterial "{88948A17C10A662C}Yacht/Materials/Yacht_upper_1.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0670}" {
+     SourceMaterial "CJ_GLASS2CJ_GLASS2_a"
+     AssignedMaterial "{F4AABEE78A08768C}CruiseShip/Materials/GlassForShip.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D066C}" {
+     SourceMaterial "CJ_WOOD_SLAT2"
+     AssignedMaterial "{1B450F31C4436746}Yacht/Materials/DeckWood.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D066A}" {
+     SourceMaterial "CJ_GLASS2_a"
+     AssignedMaterial "{13222577913DAC32}Yacht/Data/CJ_GLASS2_a.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0668}" {
+     SourceMaterial "CJ_BLUE"
+     AssignedMaterial "{8F509401C0B03FA1}Yacht/Materials/Yach_bottom_1.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0663}" {
+     SourceMaterial "BM_lifepreserver"
+     AssignedMaterial "{3A95FA371401B3AC}Yacht/Materials/Lifepreserver.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0660}" {
+     SourceMaterial "EC_moor_polla"
+     AssignedMaterial "{1695269E092D073A}Yacht/Materials/moor.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D065E}" {
+     SourceMaterial "CJCOUCHL1"
+     AssignedMaterial "{42DF7FAE5B17CDAB}Assets/Structures/BuildingsParts/Doors/Data/Doors_Village_E_Leather.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D065A}" {
+     SourceMaterial "CJ_LIGHTWOOD"
+     AssignedMaterial "{910AB290D3E39749}Yacht/Data/CJ_LIGHTWOOD.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0657}" {
+     SourceMaterial "GB_COFFEEtbl01"
+     AssignedMaterial "{BF0D4E0686664780}Yacht/Data/GB_COFFEEtbl01.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D064F}" {
+     SourceMaterial "GB_COFFEEtbl02"
+     AssignedMaterial "{E1E5674539EBC98F}Yacht/Data/GB_COFFEEtbl02.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D064D}" {
+     SourceMaterial "CJ_POT1_terra"
+     AssignedMaterial "{72B94F51AC382A97}Yacht/Data/CJ_POT1_terra.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D064A}" {
+     SourceMaterial "CJ_DIRT"
+     AssignedMaterial "{1AE992D2150CB620}Yacht/Data/CJ_DIRT.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0648}" {
+     SourceMaterial "CJ_LEAF_CHEESEcj_leaf_cheese_a"
+     AssignedMaterial "{D68E05D7BAEC620F}Yacht/Materials/Leaf.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D063E}" {
+     SourceMaterial "CJ_STALK"
+     AssignedMaterial "{F120834AE1ADF588}Yacht/Materials/Stalk.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D063C}" {
+     SourceMaterial "CJ_K_CABINET"
+     AssignedMaterial "{EC14E92296625C4E}Yacht/Data/CJ_K_CABINET.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0639}" {
+     SourceMaterial "CJ_BRASS"
+     AssignedMaterial "{3C17827BC837432A}Yacht/Data/CJ_BRASS.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0637}" {
+     SourceMaterial "cj_b_carp3"
+     AssignedMaterial "{ED8AF6D672B17FA3}Yacht/Data/cj_b_carp3.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0634}" {
+     SourceMaterial "cj_white"
+     AssignedMaterial "{FCB08B7014A29A36}Yacht/Data/cj_white.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D062C}" {
+     SourceMaterial "cj_b_carp2"
+     AssignedMaterial "{1982B14E7F6C17D7}Yacht/Data/cj_b_carp2.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0626}" {
+     SourceMaterial "CJ_WOOD5"
+     AssignedMaterial "{B10930B8F7368149}Yacht/Data/CJ_WOOD5.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0622}" {
+     SourceMaterial "cj_boat_wood_2"
+     AssignedMaterial "{88994351277F6BE3}Yacht/Data/cj_boat_wood_2.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D061E}" {
+     SourceMaterial "CJ_Heli_pad1"
+     AssignedMaterial "{23013ED79F434475}Yacht/Materials/HeliPad1.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0619}" {
+     SourceMaterial "nomaterial"
+     AssignedMaterial "{69B89E4CE73D2AAE}Yacht/Data/nomaterial.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0616}" {
+     SourceMaterial "CJ_BUMPER"
+     AssignedMaterial "{C6637CB3EBF6A683}Yacht/Data/CJ_BUMPER.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0614}" {
+     SourceMaterial "cj_black"
+     AssignedMaterial "{85E50270B47A3AB1}Yacht/Data/cj_black.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0612}" {
+     SourceMaterial "cj_pink_rope"
+     AssignedMaterial "{218716C52DC267A6}Yacht/Data/cj_pink_rope.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0610}" {
+     SourceMaterial "CJ_WOOD3_256"
+     AssignedMaterial "{E352E57272EAFD17}Yacht/Data/CJ_WOOD3_256.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D060E}" {
+     SourceMaterial "CJ_Blinds_1cj_blinds_1_a"
+     AssignedMaterial "{F4AABEE78A08768C}CruiseShip/Materials/GlassForShip.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D39F7}" {
+     SourceMaterial "bm_e2_yaughtflag"
+     AssignedMaterial "{029AC7502EF0E721}Yacht/Data/bm_e2_yaughtflag.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0609}" {
+     SourceMaterial "cj_leather_E2"
+     AssignedMaterial "{AB8936A8C8DF83C0}Yacht/Materials/ChairFabric.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0607}" {
+     SourceMaterial "cj_boat_door_1"
+     AssignedMaterial "{EE6B012A982B41AB}Yacht/Data/cj_boat_door_1.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0605}" {
+     SourceMaterial "cj_chrome"
+     AssignedMaterial "{07A0F188515FF6D2}Yacht/Data/cj_chrome.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D0603}" {
+     SourceMaterial "cj_woofer1"
+     AssignedMaterial "{72E79613B3146D7A}Yacht/Data/cj_woofer1.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D39FF}" {
+     SourceMaterial "cj_blackwood"
+     AssignedMaterial "{CA4CD3A2B19F8D10}Yacht/Data/cj_blackwood.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D39FD}" {
+     SourceMaterial "cj_hififront"
+     AssignedMaterial "{B38B5452D3304C13}Yacht/Data/cj_hififront.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D39FB}" {
+     SourceMaterial "cj_wood3c"
+     AssignedMaterial "{4D945556626F52CF}Yacht/Data/cj_wood3c.emat"
+    }
+    MaterialAssignClass "{65A565E4B37D39F9}" {
+     SourceMaterial "cj_blue_lether"
+     AssignedMaterial "{74B6270B360B505D}Yacht/Data/cj_blue_lether.emat"
+    }
+    MaterialAssignClass "{65A565FD26FD67BE}" {
+     SourceMaterial "DefaultGeneratedMaterial"
+     AssignedMaterial "{1F9BF4CDE6BF9EE1}Yacht/Data/DefaultGeneratedMaterial.emat"
+    }
+   }
+   MeshParams {
+    MeshParam e2_cj_big_boat_01 {
+    }
+    MeshParam Text {
+    }
+    MeshParam "Text.001" {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_e2_cj_big_boat {
+     SurfaceProperties {
+      "{536BF67B2052B869}material/metal.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{65A565E8112293D1}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{65A565E811229305}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{65A565E8112292CB}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{65A565E811229295}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{65A565E811229269}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{65A565E81122923E}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

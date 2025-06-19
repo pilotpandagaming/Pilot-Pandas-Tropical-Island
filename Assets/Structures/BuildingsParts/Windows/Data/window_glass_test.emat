@@ -1,0 +1,33 @@
+MatPBRBasicGlass {
+ DiffuseIBL 0.624 0.624 0.624 1
+ SpecularIBL 0.855 0.846 0.832 1
+ Diffuse 0.259 0.268 0.27 1
+ Cull none
+ Sort translucent
+ SurfaceProperties "{3DC7C8A918E3F4A5}Common/Materials/Game/glass.gamemat"
+ Specular 0.091 0.091 0.091 1
+ SpecularMul 0.11
+ WetnessScale 0
+ AlphaTest 0.23
+ AlphaMul 1.179
+ BlendMode AlphaBlend
+ CrossFade 0
+ RoughnessScale 1.067
+ MetalnessScale 0.777
+ DielectricReflectance 0.076
+ CavityFromAO 0.6
+ GlobalAOPower 0.5
+ NormalPower 0.03
+ DetailNormalPower 0.18
+ DetailNormalMapUVTransform MatUVTransform "{609EA1DBACC7E3F7}" {
+  TilingU 3
+  TilingV 3.5
+  OffsetU 0.172
+  Rotation 90
+ }
+ ManualCascadesShadows 1
+ FrontFaceInterior 1
+ FresnelPower 3.04
+ FresnelBias 0.07
+ Backscatterig 0.6
+}

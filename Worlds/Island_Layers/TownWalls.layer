@@ -1,0 +1,873 @@
+SplineShapeEntity {
+ coords 2041.342 68.729 1300.697
+ Points {
+  ShapePoint "{65A22308E5CD247C}" {
+   Position 0 0 0
+  }
+  ShapePoint "{65A22308E5CD394B}" {
+   Position -41.04 5.175 71.049
+   Data {
+    SplinePointData SplinePointData {
+     InTangent -2.048 0.224 4.146
+     OutTangent -2.048 0.224 4.146
+    }
+   }
+  }
+  ShapePoint "{65A22308E0562F52}" {
+   Position -153.538 0.448 13.681
+   Data {
+    SplinePointData SplinePointData {
+     InTangent -0.311 -2.399 -6.659
+     OutTangent -0.311 -2.399 -6.659
+    }
+   }
+  }
+  ShapePoint "{65A22308E0CC8E55}" {
+   Position -80.265 0.377 -158.956
+   Data {
+    SplinePointData SplinePointData {
+     InTangent 7.63 -1.522 3.683
+     OutTangent 7.63 -1.522 3.683
+    }
+   }
+  }
+  ShapePoint "{65A22308E213E1E4}" {
+   Position 45.281 -2.596 -87.88
+   Data {
+    SplinePointData SplinePointData {
+     InTangent -3.026 -0.186 8.452
+     OutTangent -3.026 -0.186 8.452
+    }
+   }
+  }
+  ShapePoint "{65A22308E2CA7518}" {
+   Position 16.059 -0.288 -24.311
+  }
+ }
+ LineColor 0 0 0 0
+ {
+  WallGeneratorEntity : "{4CA251EBE9778336}PrefabLibrary/Generators/Walls/Concrete/WG_ConcreteWall_01.et" {
+   Flags 1048579
+   {
+    SCR_DestructibleEntity : "{2BA5C7F599779832}PrefabLibrary/Walls/Concrete/ConcreteWall_01_6m_D_A.et" {
+     coords -81.129 0.347 -158.107
+     angleY 342.991
+    }
+    $grp SCR_DestructibleEntity : "{350B1D05E8446B1C}PrefabLibrary/Walls/Concrete/ConcreteWall_01_6m_A.et" {
+     {
+      coords 0.054 -0.004 -0.093
+      angleY 239.935
+     }
+     {
+      coords -40.812 5.153 70.863
+      angleY 160.702
+     }
+     {
+      coords 44.225 -2.418 -89.123
+      angleY 260.286
+     }
+    }
+    $grp SCR_DestructibleEntity : "{595F29E55480E432}PrefabLibrary/Walls/Concrete/ConcreteWall_01_6m_B.et" {
+     {
+      coords -152.946 0.447 14.362
+      angleY 77.626
+     }
+     {
+      coords -75.457 0.261 -156.394
+      angleY 331.671
+     }
+    }
+    SCR_DestructibleEntity : "{95A1D31077D47BEA}PrefabLibrary/Walls/Concrete/ConcreteWall_01_Pole.et" {
+     coords 16.364 -0.307 -24.969
+     angleY 245.147
+    }
+    $grp SCR_DestructibleEntity : "{CAFF4B51059A0F81}PrefabLibrary/Walls/Concrete/ConcreteWall_01_3m.et" {
+     {
+      coords -2.913 0.042 5.033
+      angleY 239.935
+     }
+     {
+      coords -4.375 0.09 7.558
+      angleY 239.935
+     }
+     {
+      coords -5.837 0.164 10.084
+      angleY 239.935
+     }
+     {
+      coords -7.299 0.248 12.61
+      angleY 239.935
+     }
+     {
+      coords -8.761 0.357 15.135
+      angleY 239.935
+     }
+     {
+      coords -10.223 0.49 17.661
+      angleY 239.935
+     }
+     {
+      coords -11.685 0.64 20.186
+      angleY 239.935
+     }
+     {
+      coords -13.147 0.798 22.712
+      angleY 239.935
+     }
+     {
+      coords -14.609 0.956 25.237
+      angleY 239.935
+     }
+     {
+      coords -16.071 1.11 27.763
+      angleY 239.935
+     }
+     {
+      coords -17.533 1.285 30.288
+      angleY 239.935
+     }
+     {
+      coords -18.995 1.459 32.814
+      angleY 239.942
+     }
+     {
+      coords -20.457 1.631 35.34
+      angleY 239.979
+     }
+     {
+      coords -21.917 1.835 37.866
+      angleY 239.979
+     }
+     {
+      coords -23.377 2.028 40.393
+      angleY 239.979
+     }
+     {
+      coords -24.837 2.242 42.92
+      angleY 239.979
+     }
+     {
+      coords -26.297 2.46 45.446
+      angleY 239.979
+     }
+     {
+      coords -27.757 2.702 47.973
+      angleY 239.979
+     }
+     {
+      coords -29.217 2.936 50.5
+      angleY 239.979
+     }
+     {
+      coords -30.677 3.183 53.026
+      angleY 239.979
+     }
+     {
+      coords -32.137 3.456 55.553
+      angleY 239.979
+     }
+     {
+      coords -33.597 3.732 58.08
+      angleY 240.026
+     }
+     {
+      coords -35.055 4.007 60.608
+      angleY 240.069
+     }
+     {
+      coords -36.511 4.273 63.136
+      angleY 240.069
+     }
+     {
+      coords -37.967 4.571 65.665
+      angleY 240.16
+     }
+     {
+      coords -39.42 4.857 68.196
+      angleY 240.403
+     }
+     {
+      coords -46.407 5.036 68.915
+      angleY 155.15
+     }
+     {
+      coords -49.055 4.861 67.689
+      angleY 154.742
+     }
+     {
+      coords -51.695 4.664 66.445
+      angleY 154.295
+     }
+     {
+      coords -54.324 4.425 65.179
+      angleY 154.295
+     }
+     {
+      coords -56.953 4.168 63.914
+      angleY 154.173
+     }
+     {
+      coords -59.58 3.88 62.643
+      angleY 153.886
+     }
+     {
+      coords -62.201 3.597 61.358
+      angleY 153.886
+     }
+     {
+      coords -64.821 3.283 60.074
+      angleY 153.873
+     }
+     {
+      coords -67.441 2.991 58.789
+      angleY 153.6
+     }
+     {
+      coords -70.055 2.686 57.492
+      angleY 153.6
+     }
+     {
+      coords -72.669 2.431 56.194
+      angleY 153.6
+     }
+     {
+      coords -75.283 2.153 54.897
+      angleY 153.505
+     }
+     {
+      coords -77.894 1.924 53.596
+      angleY 153.371
+     }
+     {
+      coords -80.503 1.7 52.288
+      angleY 153.371
+     }
+     {
+      coords -83.112 1.49 50.98
+      angleY 153.371
+     }
+     {
+      coords -85.72 1.312 49.672
+      angleY 153.264
+     }
+     {
+      coords -88.326 1.151 48.359
+      angleY 153.168
+     }
+     {
+      coords -90.93 1.028 47.042
+      angleY 153.168
+     }
+     {
+      coords -93.534 0.899 45.725
+      angleY 153.168
+     }
+     {
+      coords -96.138 0.795 44.408
+      angleY 153.066
+     }
+     {
+      coords -98.74 0.694 43.086
+      angleY 152.969
+     }
+     {
+      coords -101.339 0.612 41.76
+      angleY 152.969
+     }
+     {
+      coords -103.939 0.554 40.434
+      angleY 152.969
+     }
+     {
+      coords -106.538 0.5 39.108
+      angleY 152.864
+     }
+     {
+      coords -109.135 0.449 37.777
+      angleY 152.755
+     }
+     {
+      coords -111.73 0.417 36.441
+      angleY 152.755
+     }
+     {
+      coords -114.324 0.375 35.105
+      angleY 152.755
+     }
+     {
+      coords -116.919 0.354 33.769
+      angleY 152.607
+     }
+     {
+      coords -119.51 0.34 32.427
+      angleY 152.503
+     }
+     {
+      coords -122.098 0.325 31.08
+      angleY 152.503
+     }
+     {
+      coords -124.687 0.306 29.732
+      angleY 152.503
+     }
+     {
+      coords -127.275 0.304 28.385
+      angleY 152.197
+     }
+     {
+      coords -129.857 0.302 27.024
+      angleY 152.175
+     }
+     {
+      coords -132.437 0.299 25.662
+      angleY 152.175
+     }
+     {
+      coords -135.018 0.297 24.301
+      angleY 151.956
+     }
+     {
+      coords -137.594 0.306 22.929
+      angleY 151.783
+     }
+     {
+      coords -140.166 0.322 21.55
+      angleY 151.541
+     }
+     {
+      coords -142.732 0.329 20.16
+      angleY 151.196
+     }
+     {
+      coords -145.289 0.346 18.754
+      angleY 150.752
+     }
+     {
+      coords -147.836 0.381 17.33
+      angleY 149.986
+     }
+     {
+      coords -150.365 0.415 15.874
+      angleY 147.695
+     }
+     {
+      coords -151.69 0.27 8.56
+      angleY 68.659
+     }
+     {
+      coords -150.629 0.205 5.841
+      angleY 68.384
+     }
+     {
+      coords -149.554 0.177 3.128
+      angleY 68.278
+     }
+     {
+      coords -148.474 0.131 0.417
+      angleY 68.17
+     }
+     {
+      coords -147.389 0.115 -2.292
+      angleY 68.025
+     }
+     {
+      coords -146.297 0.084 -4.998
+      angleY 67.966
+     }
+     {
+      coords -145.202 0.081 -7.703
+      angleY 67.966
+     }
+     {
+      coords -144.108 0.056 -10.408
+      angleY 67.966
+     }
+     {
+      coords -143.013 0.053 -13.113
+      angleY 67.858
+     }
+     {
+      coords -141.914 0.052 -15.816
+      angleY 67.774
+     }
+     {
+      coords -140.81 0.052 -18.517
+      angleY 67.774
+     }
+     {
+      coords -139.706 0.052 -21.219
+      angleY 67.774
+     }
+     {
+      coords -138.602 0.052 -23.92
+      angleY 67.774
+     }
+     {
+      coords -137.498 0.052 -26.621
+      angleY 67.673
+     }
+     {
+      coords -136.39 0.052 -29.321
+      angleY 67.624
+     }
+     {
+      coords -135.279 0.052 -32.019
+      angleY 67.624
+     }
+     {
+      coords -134.168 0.052 -34.718
+      angleY 67.624
+     }
+     {
+      coords -133.057 0.052 -37.416
+      angleY 67.624
+     }
+     {
+      coords -131.946 0.052 -40.115
+      angleY 67.591
+     }
+     {
+      coords -130.834 0.052 -42.812
+      angleY 67.49
+     }
+     {
+      coords -129.717 0.052 -45.508
+      angleY 67.49
+     }
+     {
+      coords -128.6 0.052 -48.204
+      angleY 67.49
+     }
+     {
+      coords -127.483 0.052 -50.9
+      angleY 67.49
+     }
+     {
+      coords -126.365 0.052 -53.596
+      angleY 67.49
+     }
+     {
+      coords -125.248 0.052 -56.292
+      angleY 67.429
+     }
+     {
+      coords -124.128 0.052 -58.986
+      angleY 67.357
+     }
+     {
+      coords -123.005 0.052 -61.68
+      angleY 67.357
+     }
+     {
+      coords -121.881 0.052 -64.373
+      angleY 67.357
+     }
+     {
+      coords -120.758 0.052 -67.066
+      angleY 67.357
+     }
+     {
+      coords -119.635 0.052 -69.759
+      angleY 67.357
+     }
+     {
+      coords -118.511 0.052 -72.452
+      angleY 67.286
+     }
+     {
+      coords -117.385 0.052 -75.144
+      angleY 67.212
+     }
+     {
+      coords -116.254 0.052 -77.835
+      angleY 67.212
+     }
+     {
+      coords -115.124 0.052 -80.525
+      angleY 67.212
+     }
+     {
+      coords -113.994 0.052 -83.215
+      angleY 67.212
+     }
+     {
+      coords -112.863 0.052 -85.906
+      angleY 67.212
+     }
+     {
+      coords -111.733 0.052 -88.596
+      angleY 67.121
+     }
+     {
+      coords -110.599 0.052 -91.285
+      angleY 67.04
+     }
+     {
+      coords -109.461 0.052 -93.972
+      angleY 67.04
+     }
+     {
+      coords -108.322 0.052 -96.659
+      angleY 67.04
+     }
+     {
+      coords -107.184 0.052 -99.346
+      angleY 67.04
+     }
+     {
+      coords -106.045 0.052 -102.033
+      angleY 67.04
+     }
+     {
+      coords -104.907 0.052 -104.72
+      angleY 66.873
+     }
+     {
+      coords -103.761 0.052 -107.404
+      angleY 66.821
+     }
+     {
+      coords -102.613 0.052 -110.086
+      angleY 66.821
+     }
+     {
+      coords -101.464 0.052 -112.769
+      angleY 66.821
+     }
+     {
+      coords -100.315 0.052 -115.451
+      angleY 66.821
+     }
+     {
+      coords -99.167 0.052 -118.134
+      angleY 66.741
+     }
+     {
+      coords -98.015 0.052 -120.815
+      angleY 66.608
+     }
+     {
+      coords -96.856 0.052 -123.494
+      angleY 66.607
+     }
+     {
+      coords -95.698 0.052 -126.172
+      angleY 66.447
+     }
+     {
+      coords -94.532 0.052 -128.847
+      angleY 66.426
+     }
+     {
+      coords -93.365 0.052 -131.522
+      angleY 66.3
+     }
+     {
+      coords -92.192 0.052 -134.194
+      angleY 66.199
+     }
+     {
+      coords -91.015 0.052 -136.864
+      angleY 66.077
+     }
+     {
+      coords -89.832 0.066 -139.532
+      angleY 65.904
+     }
+     {
+      coords -88.641 0.083 -142.196
+      angleY 65.713
+     }
+     {
+      coords -87.441 0.087 -144.856
+      angleY 65.508
+     }
+     {
+      coords -86.232 0.113 -147.511
+      angleY 65.058
+     }
+     {
+      coords -85.002 0.156 -150.158
+      angleY 64.626
+     }
+     {
+      coords -83.753 0.21 -152.795
+      angleY 63.839
+     }
+     {
+      coords -82.47 0.262 -155.416
+      angleY 61.489
+     }
+     {
+      coords -70.232 0.191 -153.578
+      angleY 331.632
+     }
+     {
+      coords -67.664 0.169 -152.191
+      angleY 331.534
+     }
+     {
+      coords -65.099 0.148 -150.8
+      angleY 331.534
+     }
+     {
+      coords -62.534 0.126 -149.41
+      angleY 331.534
+     }
+     {
+      coords -59.968 0.104 -148.019
+      angleY 331.459
+     }
+     {
+      coords -57.405 0.084 -146.624
+      angleY 331.443
+     }
+     {
+      coords -54.842 0.091 -145.229
+      angleY 331.443
+     }
+     {
+      coords -52.278 0.084 -143.834
+      angleY 331.435
+     }
+     {
+      coords -49.715 0.084 -142.439
+      angleY 331.346
+     }
+     {
+      coords -47.155 0.084 -141.04
+      angleY 331.346
+     }
+     {
+      coords -44.594 0.084 -139.641
+      angleY 331.346
+     }
+     {
+      coords -42.033 0.076 -138.241
+      angleY 331.346
+     }
+     {
+      coords -39.472 0.084 -136.842
+      angleY 331.248
+     }
+     {
+      coords -36.914 0.084 -135.439
+      angleY 331.239
+     }
+     {
+      coords -34.356 0.084 -134.035
+      angleY 331.239
+     }
+     {
+      coords -31.797 0.082 -132.631
+      angleY 331.239
+     }
+     {
+      coords -29.239 0.084 -131.227
+      angleY 331.178
+     }
+     {
+      coords -26.683 0.083 -129.82
+      angleY 331.112
+     }
+     {
+      coords -24.128 0.083 -128.41
+      angleY 331.112
+     }
+     {
+      coords -21.572 0.087 -127
+      angleY 331.112
+     }
+     {
+      coords -19.017 0.097 -125.591
+      angleY 331.112
+     }
+     {
+      coords -16.462 0.099 -124.181
+      angleY 330.967
+     }
+     {
+      coords -13.911 0.107 -122.765
+      angleY 330.955
+     }
+     {
+      coords -11.36 0.115 -121.348
+      angleY 330.955
+     }
+     {
+      coords -8.809 0.102 -119.931
+      angleY 330.954
+     }
+     {
+      coords -6.257 0.111 -118.515
+      angleY 330.881
+     }
+     {
+      coords -3.708 0.115 -117.095
+      angleY 330.753
+     }
+     {
+      coords -1.162 0.098 -115.669
+      angleY 330.753
+     }
+     {
+      coords 1.385 0.107 -114.243
+      angleY 330.753
+     }
+     {
+      coords 3.931 0.085 -112.818
+      angleY 330.753
+     }
+     {
+      coords 6.477 0.064 -111.392
+      angleY 330.492
+     }
+     {
+      coords 9.017 0.035 -109.955
+      angleY 330.481
+     }
+     {
+      coords 11.556 0.004 -108.517
+      angleY 330.481
+     }
+     {
+      coords 14.095 -0.058 -107.079
+      angleY 330.481
+     }
+     {
+      coords 16.635 -0.119 -105.642
+      angleY 330.248
+     }
+     {
+      coords 19.169 -0.191 -104.194
+      angleY 330.205
+     }
+     {
+      coords 21.701 -0.291 -102.744
+      angleY 329.982
+     }
+     {
+      coords 24.228 -0.418 -101.284
+      angleY 329.92
+     }
+     {
+      coords 26.754 -0.561 -99.822
+      angleY 329.668
+     }
+     {
+      coords 29.273 -0.741 -98.349
+      angleY 329.464
+     }
+     {
+      coords 31.786 -0.939 -96.866
+      angleY 329.255
+     }
+     {
+      coords 34.295 -1.184 -95.375
+      angleY 328.745
+     }
+     {
+      coords 36.79 -1.44 -93.862
+      angleY 328.184
+     }
+     {
+      coords 39.271 -1.745 -92.325
+      angleY 327.234
+     }
+     {
+      coords 41.727 -2.062 -90.749
+      angleY 325.054
+     }
+     {
+      coords 43.252 -2.505 -83.276
+      angleY 245.553
+     }
+     {
+      coords 42.044 -2.426 -80.62
+      angleY 245.553
+     }
+     {
+      coords 40.837 -2.327 -77.963
+      angleY 245.426
+     }
+     {
+      coords 39.624 -2.205 -75.309
+      angleY 245.336
+     }
+     {
+      coords 38.406 -2.098 -72.657
+      angleY 245.336
+     }
+     {
+      coords 37.188 -1.97 -70.005
+      angleY 245.336
+     }
+     {
+      coords 35.97 -1.83 -67.353
+      angleY 245.264
+     }
+     {
+      coords 34.749 -1.683 -64.703
+      angleY 245.237
+     }
+     {
+      coords 33.527 -1.562 -62.053
+      angleY 245.237
+     }
+     {
+      coords 32.305 -1.412 -59.403
+      angleY 245.237
+     }
+     {
+      coords 31.082 -1.262 -56.753
+      angleY 245.202
+     }
+     {
+      coords 29.859 -1.111 -54.104
+      angleY 245.147
+     }
+     {
+      coords 28.632 -0.961 -51.456
+      angleY 245.147
+     }
+     {
+      coords 27.406 -0.83 -48.808
+      angleY 245.147
+     }
+     {
+      coords 26.179 -0.707 -46.16
+      angleY 245.147
+     }
+     {
+      coords 24.953 -0.595 -43.513
+      angleY 245.147
+     }
+     {
+      coords 23.726 -0.514 -40.865
+      angleY 245.147
+     }
+     {
+      coords 22.5 -0.446 -38.217
+      angleY 245.147
+     }
+     {
+      coords 21.273 -0.395 -35.569
+      angleY 245.147
+     }
+     {
+      coords 20.047 -0.354 -32.921
+      angleY 245.147
+     }
+     {
+      coords 18.82 -0.331 -30.273
+      angleY 245.147
+     }
+     {
+      coords 17.594 -0.321 -27.625
+      angleY 245.147
+     }
+    }
+   }
+  }
+ }
+}

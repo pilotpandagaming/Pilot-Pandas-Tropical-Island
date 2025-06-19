@@ -1,0 +1,5 @@
+SCR_MapEntity MapEntity_Island1 : "{E248DC8E6D1EC486}Prefabs/World/Game/Arland/MapEntity_Island.et" {
+ coords 2264.926 54.156 1665.278
+ "Map Geometry Data" "{3E86200B16EDDC71}Worlds/Island.topo"
+ "Satellite background image" "{6AA3CB5AD5B8EFC9}BOSS MAP.edds"
+}

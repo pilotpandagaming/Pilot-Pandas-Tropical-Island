@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "C:/Users/PSI Media Server 1A/Downloads/BOSS MAP.png"
+ sRGBOutput 0
+ RenderRoads 0
+ Interpolation bilinear
+ RoadsAA "8x"
+}

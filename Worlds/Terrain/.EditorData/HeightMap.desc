@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "C:/Users/PSI Media Server 1A/Downloads/depth1.png"
+ Flags 5
+ MinHeight -1000000
+ ResampleMinHeight -60
+ ResampleMaxHeight 200
+}

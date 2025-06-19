@@ -1,0 +1,5 @@
+MatPBRBasic {
+ DiffuseIBL 0.144 0.144 0.144 1
+ Diffuse 0.095 0.095 0.095 1
+ Specular 0.076 0.076 0.076 1
+}
