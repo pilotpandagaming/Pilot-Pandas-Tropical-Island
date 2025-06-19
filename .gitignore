@@ -1,7 +1,7 @@
 # Ignore backups and logs
 *.bak
 *.log
-*.tmp
+.tmp
 
 # Ignore local config
 *.cfg
