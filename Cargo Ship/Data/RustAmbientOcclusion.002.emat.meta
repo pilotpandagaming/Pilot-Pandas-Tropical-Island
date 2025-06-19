@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{0F5BF4FD47FB9524}Cargo Ship/Data/RustAmbientOcclusion.002.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
