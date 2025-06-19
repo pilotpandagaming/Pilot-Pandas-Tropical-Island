@@ -49,18 +49,10 @@ MetaFileClass {
     }
    }
    GeometryParams {
-    GeometryParam "UTM_Ship.001" {
+    GeometryParam UTM_Ship_01 {
+     LayerPreset "None"
      SurfaceProperties {
-      "{D854A8B01F68CAA5}RustAmbientOcclusion.gamemat"
-      "{9F8A01F58AF61E8E}GenericGrey.gamemat"
-      "{21EED021D315FD5D}ShinyGrey.gamemat"
-      "{A2AAB062AC2B0132}MetalPaintRust.gamemat"
-      "{C8CA90EF498A4B06}RustBlackCLone.gamemat"
-      "{CDE78B1963722664}ShinyMetal.gamemat"
-      "{C10E450D5FD1F2B8}LightGrey.gamemat"
-      "{3F005C0D2E1ECE1E}TexturesComDecalsRusted00301maskedS.gamemat"
-      "{B6113163C8758F4B}TexturesComVents00021maskedS.gamemat"
-      "{A35EA439D4F8231A}TexturesComVents02091maskedS.gamemat"
+      "{7898C33735EFBBB0}Common/Materials/Game/Core/default.gamemat"
      }
      Mass 0
      Margin 0
