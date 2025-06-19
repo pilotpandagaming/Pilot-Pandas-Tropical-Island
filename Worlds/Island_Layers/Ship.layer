@@ -3,7 +3,7 @@ GenericEntity : "{69198F522591B468}Custom Content/Prefabs/ShipWreck_Ship.et" {
  angleY -175.904
 }
 GenericEntity : "{9C4DAD8CD4473F44}Yacht/Yacht_Prefab.et" {
- coords 1662.712 0 2205.19
+ coords 1658.506 0 2231.801
  angleY 0
 }
 GenericEntity : "{CF7A01BEC0259F4D}Custom Content/Cargo Ship/ShipEnt.et" {
