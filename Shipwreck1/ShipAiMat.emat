@@ -2,5 +2,4 @@ MatPBRBasic {
  Cull none
  BCRMap "{4ACC013A3A3F129C}Shipwreck1/4k/BCRai7.edds"
  NormalPower 0.5
- NMOMap "{7F4C75317AF1351A}Shipwreck1/4k/NMOai7.edds"
 }

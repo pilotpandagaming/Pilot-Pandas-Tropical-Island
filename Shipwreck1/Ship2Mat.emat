@@ -4,6 +4,5 @@ MatPBRBasic {
  CavityFromAO 0
  GlobalLayerNormalPower 0.5
  BCRMap "{3FC8EA121881927E}Shipwreck1/4k/BCR2.edds"
- NormalPower 0.5
- NMOMap "{DF523D41C2745BF1}Shipwreck1/4k/NMO2.edds"
+ NormalPower 0.176
 }
