@@ -1,4 +1,0 @@
-MatPBRBasic {
- Color 0.485 0.485 0.485 1
- Cull none
-}

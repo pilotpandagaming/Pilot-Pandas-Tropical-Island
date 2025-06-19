@@ -1,0 +1,157 @@
+GenericEntity {
+ ID "65A1315A7D05FD99"
+ components {
+  MeshObject "{65A1315F8FFC263C}" {
+   Object "{E2DF0A2E512A2AD0}Cargo Ship/ship.xob"
+  }
+  RigidBody "{65A1315F83AB98A7}" {
+   LayerPreset "Building"
+   Active Active
+   SimState Collision
+   ResponseIndex "HugeDestructible"
+   ModelGeometry 1
+  }
+ }
+ coords 1802.825 0 2566.319
+ scale 9.144
+ {
+  $grp GenericEntity : "{35E211705F8FED68}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_40ft_blue.et" {
+   {
+    ID "65A22315558BF0C7"
+    coords -0.73 2.181 -2.691
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A22315558BF0E1"
+    coords 0.745 2.454 -1.177
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A22315558BF13A"
+    coords 0.504 2.434 2.779
+    angleX -0.492
+    scale 0.109
+   }
+  }
+  GenericEntity : "{47789BA6E9CA2928}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_03_Campaign.et" {
+   ID "65A2230D3B2AF3C5"
+   coords -0.153 2.162 1.631
+   angleY 177.025
+   scale 0.109
+  }
+  $grp GenericEntity : "{887780D497AADE00}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_40ft_Base.et" {
+   {
+    ID "65A22315558BF0F9"
+    coords 0.158 2.179 -1.111
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A22315558BF180"
+    coords -0.668 2.159 2.698
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A223166501F981"
+    coords -0.684 2.417 4.468
+    angleX -0.492
+    scale 0.109
+   }
+  }
+  $grp GenericEntity : "{9A3ADECE49EF8993}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_40ft_green.et" {
+   {
+    ID "65A22315558BF0C0"
+    coords 0.624 2.448 -2.696
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A223165A3FC520"
+    coords 0.513 2.14 4.496
+    angleX -0.492
+    scale 0.109
+   }
+  }
+  $grp GenericEntity : "{DB403F1A9E7B0B4F}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_40ft_red.et" {
+   {
+    ID "65A22315558BF0B3"
+    coords 0.618 2.181 -2.703
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A223165A3FC4F3"
+    coords -0.085 2.151 4.444
+    angleX -0.492
+    scale 0.109
+   }
+  }
+  $grp GenericEntity : "{EF2962FC3EFD9C17}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_40ft_grey.et" {
+   {
+    ID "65A22315558BF0A4"
+    coords -0.077 2.458 -2.622
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A22315558BF0D1"
+    coords 0.166 2.456 -1.097
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A22315558BF163"
+    coords -0.665 2.436 2.701
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A223165A3FC505"
+    coords -0.675 2.14 4.452
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A2231699C628CC"
+    coords -0.085 2.413 4.449
+    angleX -0.492
+    scale 0.109
+   }
+  }
+  $grp GenericEntity : "{FF7C0A161F852119}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_40ft_olive.et" {
+   {
+    ID "65A22315558BF09D"
+    coords -0.728 2.448 -2.686
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A22315558BF0AB"
+    coords -0.079 2.182 -2.631
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A22315558BF0D9"
+    coords 0.732 2.177 -1.164
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A22315558BF145"
+    coords 0.491 2.156 2.792
+    angleX -0.492
+    scale 0.109
+   }
+   {
+    ID "65A223165A3FC4FC"
+    coords 0.516 2.416 4.5
+    angleX -0.492
+    scale 0.109
+   }
+  }
+ }
+}

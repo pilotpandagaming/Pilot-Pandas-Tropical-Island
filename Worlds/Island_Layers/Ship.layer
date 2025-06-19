@@ -1,17 +1,11 @@
-GenericEntity {
- components {
-  MeshObject "{65A4544948E29678}" {
-   Object "{8E04B6E49D0BEE73}CruiseShip/cruiseship.xob"
-  }
-  RigidBody "{65A45449887E23BF}" {
-   ModelGeometry 1
-   Static 1
-  }
- }
- coords 3312.291 -8.838 1198.864
- angleY 136.141
- scale 0.53
+GenericEntity : "{69198F522591B468}Custom Content/Prefabs/ShipWreck_Ship.et" {
+ coords 1528.492 0 2248.951
+ angleY -175.904
 }
-GenericEntity : "{CF7A01BEC0259F4D}Cargo Ship/ShipEnt.et" {
- coords 1459.997 -10.351 2366.87
+GenericEntity : "{9C4DAD8CD4473F44}Yacht/Yacht_Prefab.et" {
+ coords 1662.712 0 2205.19
+ angleY 0
+}
+GenericEntity : "{CF7A01BEC0259F4D}Custom Content/Cargo Ship/ShipEnt.et" {
+ coords 1575.762 -11.471 2216.404
 }

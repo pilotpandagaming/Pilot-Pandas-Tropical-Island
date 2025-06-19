@@ -1,5 +1,0 @@
-MatPBRBasic {
- BCRMap "{55C8A263470A34E4}Cargo Ship/ShipTextures/Metal Paint Rust_roughness.edds"
- NMOMap "{49CEF655A6BC9768}Cargo Ship/ShipTextures/Metal Paint Rust_normal.edds"
- UVSrcGlobalMaps "UV set 2"
-}

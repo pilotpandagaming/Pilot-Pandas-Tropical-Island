@@ -1,0 +1,8 @@
+MatPBRBasic {
+ EmissiveAbsoluteLV 0
+ Cull none
+ CavityFromAO 0
+ GlobalLayerNormalPower 0.5
+ BCRMap "{3FC8EA121881927E}Shipwreck1/4k/BCR2.edds"
+ NormalPower 0.176
+}

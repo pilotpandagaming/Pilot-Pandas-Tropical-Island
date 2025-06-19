@@ -1,7 +1,0 @@
-MatPBRBasic {
- Cull none
- CastShadow 0
- BCRMap "{098AEA32955D2A78}Yacht/Textures/cj_wood3c.edds"
- NormalPower 0.912
- NMOMap "{66AB4268B91CA6EC}Yacht/Textures/DirectX_Normal_Metal_Height_Occlusion_to_NMO_NHO_Map_NMO_NHO_Output.edds"
-}

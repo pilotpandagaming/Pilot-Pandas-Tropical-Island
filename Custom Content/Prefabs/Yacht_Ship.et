@@ -1,0 +1,107 @@
+GenericEntity : "{9C4DAD8CD4473F44}Yacht/Yacht_Prefab.et" {
+ ID "65A61410727BC646"
+ components {
+  MeshObject "{65A565E86DB4F927}" {
+   Materials {
+    MaterialAssignClass "{65A741D5938F4441}" {
+     SourceMaterial "CJ_BRASS"
+     AssignedMaterial "{F6C555374FB0911B}Yacht/Yacht_materials/Brass.emat"
+    }
+    MaterialAssignClass "{65A741D5938F442C}" {
+     SourceMaterial "CJ_BUMPER"
+     AssignedMaterial "{2FCCD8BCB42B76F9}Yacht/Yacht_materials/Floatie_BUmpers.emat"
+    }
+    MaterialAssignClass "{65A741D5938F4425}" {
+     SourceMaterial "CJ_GLASS2_a"
+     AssignedMaterial "{69FACE78175B6C3F}Assets/Props/Civilian/ClockUniversal_01/Data/ClockUniversal_01_Glass_Yacht.emat"
+    }
+    MaterialAssignClass "{65A741D5938F441F}" {
+     SourceMaterial "CJ_K_CABINET"
+     AssignedMaterial "{1B450F31C4436746}Yacht/Yacht_materials/DeckWood.emat"
+    }
+    MaterialAssignClass "{65A741D5938F441A}" {
+     SourceMaterial "CJ_LIGHTWOOD"
+     AssignedMaterial "{1B450F31C4436746}Yacht/Yacht_materials/DeckWood.emat"
+    }
+    MaterialAssignClass "{65A741D5938F4415}" {
+     SourceMaterial "CJ_POT1_terra"
+     AssignedMaterial "{1BA5E0B484A1940E}Yacht/Yacht_materials/CJDIRT.emat"
+    }
+    MaterialAssignClass "{65A741D5938F4410}" {
+     SourceMaterial "CJ_WOOD3_256"
+     AssignedMaterial "{1B450F31C4436746}Yacht/Yacht_materials/DeckWood.emat"
+    }
+    MaterialAssignClass "{65A741D5938F440D}" {
+     SourceMaterial "CJ_WOOD5"
+     AssignedMaterial "{1B450F31C4436746}Yacht/Yacht_materials/DeckWood.emat"
+    }
+    MaterialAssignClass "{65A741D5938F440A}" {
+     SourceMaterial "DefaultGeneratedMaterial"
+     AssignedMaterial "{88948A17C10A662C}Yacht/Yacht_materials/Yacht_upper_1.emat"
+    }
+    MaterialAssignClass "{65A741D5938F4406}" {
+     SourceMaterial "GB_COFFEEtbl01"
+     AssignedMaterial "{1BA5E0B484A1940E}Yacht/Yacht_materials/CJDIRT.emat"
+    }
+    MaterialAssignClass "{65A741D5938F4402}" {
+     SourceMaterial "GB_COFFEEtbl02"
+     AssignedMaterial "{1BA5E0B484A1940E}Yacht/Yacht_materials/CJDIRT.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47FF}" {
+     SourceMaterial "cj_b_carp2"
+     AssignedMaterial "{E03B0E92139F7E30}Yacht/Yacht_materials/Carpet.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47F9}" {
+     SourceMaterial "cj_b_carp3"
+     AssignedMaterial "{E03B0E92139F7E30}Yacht/Yacht_materials/Carpet.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47F6}" {
+     SourceMaterial "cj_black"
+     AssignedMaterial "{8F509401C0B03FA1}Yacht/Yacht_materials/Yach_bottom_1.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47F1}" {
+     SourceMaterial "cj_blackwood"
+     AssignedMaterial "{8F509401C0B03FA1}Yacht/Yacht_materials/Yach_bottom_1.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47EE}" {
+     SourceMaterial "cj_blue_lether"
+     AssignedMaterial "{AB8936A8C8DF83C0}Yacht/Yacht_materials/ChairFabric.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47E7}" {
+     SourceMaterial "cj_boat_door_1"
+     AssignedMaterial "{88948A17C10A662C}Yacht/Yacht_materials/Yacht_upper_1.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47E5}" {
+     SourceMaterial "cj_boat_wood_2"
+     AssignedMaterial "{1B450F31C4436746}Yacht/Yacht_materials/DeckWood.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47E2}" {
+     SourceMaterial "cj_chrome"
+     AssignedMaterial "{1695269E092D073A}Yacht/Yacht_materials/moor.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47DD}" {
+     SourceMaterial "cj_pink_rope"
+     AssignedMaterial "{1BA5E0B484A1940E}Yacht/Yacht_materials/CJDIRT.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47D9}" {
+     SourceMaterial "cj_white"
+     AssignedMaterial "{88948A17C10A662C}Yacht/Yacht_materials/Yacht_upper_1.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47D6}" {
+     SourceMaterial "cj_wood3c"
+     AssignedMaterial "{1B450F31C4436746}Yacht/Yacht_materials/DeckWood.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47D4}" {
+     SourceMaterial "cj_woofer1"
+     AssignedMaterial "{88948A17C10A662C}Yacht/Yacht_materials/Yacht_upper_1.emat"
+    }
+    MaterialAssignClass "{65A741D5938F47D1}" {
+     SourceMaterial "nomaterial"
+     AssignedMaterial "{88948A17C10A662C}Yacht/Yacht_materials/Yacht_upper_1.emat"
+    }
+   }
+  }
+ }
+ coords 1655.915 0.05 2239.659
+ angleY 0
+}

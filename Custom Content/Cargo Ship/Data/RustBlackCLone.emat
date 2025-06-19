@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.025 0.025 0.025 1
+ BCRMap "{5653A95827643A50}Cargo Ship/ShipTextures/Metal Paint Rust_diffuse.edds"
+ NMOMap "{49CEF655A6BC9768}Cargo Ship/ShipTextures/Metal Paint Rust_normal.edds"
+}

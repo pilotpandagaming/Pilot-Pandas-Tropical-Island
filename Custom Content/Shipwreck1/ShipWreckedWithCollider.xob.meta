@@ -1,0 +1,53 @@
+MetaFileClass {
+ Name "{F3A0722184007C99}Custom Content/Shipwreck1/ShipWreckedWithCollider.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65A435600735C0AB}" {
+     SourceMaterial "aiStandardSurface7"
+     AssignedMaterial "{6F20DDB8B3BBB64C}Custom Content/Shipwreck1/Ship2Mat.emat"
+    }
+    MaterialAssignClass "{65A435600735C091}" {
+     SourceMaterial "aiStandardSurface4"
+     AssignedMaterial "{6AD51E7F58E94CFA}Custom Content/Shipwreck1/Ship3Mat.emat"
+    }
+    MaterialAssignClass "{65A435600735C08A}" {
+     SourceMaterial "ropes1"
+     AssignedMaterial "{A19736C14B6F44CE}Custom Content/Shipwreck1/ShipAiMat.emat"
+    }
+   }
+   MeshParams {
+    MeshParam pCubeShape10 {
+    }
+    MeshParam plank9 {
+    }
+    MeshParam polySurface87 {
+    }
+    MeshParam LOD {
+    }
+   }
+   Common TXOCommonClass "{65A4356007552DC4}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{65A4356007552D1B}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{65A4356007552CEE}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{65A4356007552CC6}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{65A4356007552C9F}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{65A4356007552C76}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

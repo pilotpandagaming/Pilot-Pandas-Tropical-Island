@@ -15,6 +15,7 @@ $grp GenericWorldPPEffect {
  }
  rain {
   coords 2711.219 94.467 3365.018
+  Priority 0
   Profile 7
  }
  ssdo {
