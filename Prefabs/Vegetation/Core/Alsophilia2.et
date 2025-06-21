@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2F679E249E"
+ components {
+  MeshObject "{65AB4C2F679E249C}" {
+   Object "{3F3B8CDA120C5BE5}Assets/Vietnam/TROPICAL TREE/Alsophilia2/Alsophila2.xob"
+  }
+  RigidBody "{65AB4C2F679E2496}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

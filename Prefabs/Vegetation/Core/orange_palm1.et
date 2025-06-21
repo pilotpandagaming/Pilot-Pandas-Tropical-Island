@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2E1CAF601B"
+ components {
+  MeshObject "{65AB4C2E1CAF6018}" {
+   Object "{EBEE0D4D718AE8B5}Assets/Vietnam/TROPICAL TREE/Orange_palm/Orange_palm1.xob"
+  }
+  RigidBody "{65AB4C2E1CAF6013}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

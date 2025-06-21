@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2E28D2DB22"
+ components {
+  MeshObject "{65AB4C2E28D2DB1F}" {
+   Object "{470D9D774F1F649B}Assets/Vietnam/TROPICAL TREE/Licuala/Licuala.xob"
+  }
+  RigidBody "{65AB4C2E28D2DB19}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

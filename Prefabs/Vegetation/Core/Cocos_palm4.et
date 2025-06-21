@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2FF2513A07"
+ components {
+  MeshObject "{65AB4C2FF2513A04}" {
+   Object "{89161B64789916D9}Assets/Vietnam/TROPICAL TREE/Cocos_palm/Cocos_palm4.xob"
+  }
+  RigidBody "{65AB4C2FF2513DFF}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

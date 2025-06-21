@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2FE08F664A"
+ components {
+  MeshObject "{65AB4C2FE08F6648}" {
+   Object "{15E26F68EA3BF8A1}Assets/Vietnam/TROPICAL TREE/Bailey_palm/Bailey_palm.xob"
+  }
+  RigidBody "{65AB4C2FE08F6641}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

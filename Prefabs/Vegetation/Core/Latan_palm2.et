@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2E2D468540"
+ components {
+  MeshObject "{65AB4C2E2D46853D}" {
+   Object "{9C35B2AC8416959C}Assets/Vietnam/TROPICAL TREE/Latan_palm/Latan_palm2.xob"
+  }
+  RigidBody "{65AB4C2E2D468537}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

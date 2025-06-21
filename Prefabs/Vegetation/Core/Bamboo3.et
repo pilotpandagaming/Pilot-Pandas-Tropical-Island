@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2FFEE4AB7F"
+ components {
+  MeshObject "{65AB4C2FFEE4AB7C}" {
+   Object "{357CC5C09A51AE45}Assets/Vietnam/TROPICAL TREE/Bamboo/Bamboo3.xob"
+  }
+  RigidBody "{65AB4C2FFEE4AB76}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

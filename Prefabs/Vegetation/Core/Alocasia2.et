@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2F059EAB19"
+ components {
+  MeshObject "{65AB4C2F059EAB15}" {
+   Object "{D6000A98B61D5174}Assets/Vietnam/TROPICAL TREE/Alocasia2/Alocasia2.xob"
+  }
+  RigidBody "{65AB4C2F059EAB0E}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

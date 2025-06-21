@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2E3B38760D"
+ components {
+  MeshObject "{65AB4C2E3B38760A}" {
+   Object "{4ADE748C298A2B56}Assets/Vietnam/TROPICAL TREE/Mangrove/mangrove5.xob"
+  }
+  RigidBody "{65AB4C2E3B387604}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

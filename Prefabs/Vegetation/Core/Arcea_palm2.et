@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2FEB20E454"
+ components {
+  MeshObject "{65AB4C2FEB20E451}" {
+   Object "{BEF698E7678821C0}Assets/Vietnam/TROPICAL TREE/Arcea_palm3/Arcea_palm3.xob"
+  }
+  RigidBody "{65AB4C2FEB20E44C}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

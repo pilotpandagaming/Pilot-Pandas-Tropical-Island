@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2E2BFAE578"
+ components {
+  MeshObject "{65AB4C2E2BFAE576}" {
+   Object "{F65E718EDD81F37F}Assets/Vietnam/TROPICAL TREE/Macarthur_Palm/Macarthur_Palm.xob"
+  }
+  RigidBody "{65AB4C2E2BFAE570}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

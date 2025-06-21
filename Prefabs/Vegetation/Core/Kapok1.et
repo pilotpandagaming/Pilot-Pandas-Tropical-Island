@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2FDB1B34BE"
+ components {
+  MeshObject "{65AB4C2FDB1B34BB}" {
+   Object "{C37F0146224251D9}Assets/Vietnam/TROPICAL TREE/Kapok/Kapok1.xob"
+  }
+  RigidBody "{65AB4C2FDB1B34B5}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

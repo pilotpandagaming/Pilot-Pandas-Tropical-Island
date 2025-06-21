@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2E311BDCF3"
+ components {
+  MeshObject "{65AB4C2E311BDCF0}" {
+   Object "{FB64F3C9FC94DE9C}Assets/Vietnam/TROPICAL TREE/Oleander/oleander1.xob"
+  }
+  RigidBody "{65AB4C2E311BDCEA}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

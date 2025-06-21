@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2FCD29EB61"
+ components {
+  MeshObject "{65AB4C2FCD29EB5E}" {
+   Object "{E7566EC56F08EEE0}Assets/Vietnam/TROPICAL TREE/Disophyros_chloroxylon/Diospyros_chloroxylon1.xob"
+  }
+  RigidBody "{65AB4C2FCD29EB56}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

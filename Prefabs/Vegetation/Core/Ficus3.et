@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2FD8025AD7"
+ components {
+  MeshObject "{65AB4C2FD8025AD4}" {
+   Object "{48D0DA1DE9781D37}Assets/Vietnam/TROPICAL TREE/Ficus/ficus3.xob"
+  }
+  RigidBody "{65AB4C2FD8025ACF}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2F7F7F90DE"
+ components {
+  MeshObject "{65AB4C2F7F7F90DB}" {
+   Object "{B2EBCF71337F1609}Assets/Vietnam/TROPICAL TREE/Aneityum_Palm/Aneityum_Palm.xob"
+  }
+  RigidBody "{65AB4C2F7F7F90D6}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}

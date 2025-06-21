@@ -1,0 +1,9 @@
+Tree : "{0732F201C7F069B1}Prefabs/Vegetation/Core/orange_palm1.et" {
+ ID "5EA4F5896219BA91"
+ components {
+  MeshObject "{5EA4F5896219BA9A}" {
+   Object "{05FADC5C98CF3655}Assets/Vietnam/TROPICAL TREE/Orange_palm/Orange_palm3.xob"
+  }
+ }
+ coords 29.708 0 83.64
+}

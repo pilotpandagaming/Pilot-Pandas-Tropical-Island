@@ -1,0 +1,15 @@
+Tree {
+ ID "65AB4C2FC6CCC66F"
+ components {
+  MeshObject "{65AB4C2FC6CCC66C}" {
+   Object "{63992DF09D308108}Assets/Vietnam/TROPICAL TREE/Disophyros_humilis/Diospyros_Humilis3.xob"
+  }
+  RigidBody "{65AB4C2FC6CCC667}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 524289
+ Occlusion 80
+ SoundType Bush
+}
