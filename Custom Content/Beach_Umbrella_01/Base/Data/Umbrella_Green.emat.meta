@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6376AD85E47DF719}Custom Content/Beach_Umbrella_01/Base/Data/Umbrella_Green.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

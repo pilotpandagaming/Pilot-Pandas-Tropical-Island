@@ -1,10 +1,15 @@
-GenericEntity : "{69198F522591B468}Custom Content/Prefabs/ShipWreck_Ship.et" {
- coords 1528.492 0 2248.951
- angleY -175.904
-}
-GenericEntity : "{9C4DAD8CD4473F44}Yacht/Yacht_Prefab.et" {
- coords 1658.506 0 2231.801
- angleY 0
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{65A771063ACD4E81}" {
+    Object "{F456C583D9E3984A}BeardLong.xob"
+   }
+  }
+  coords 1988.929 43.852 1996.203
+ }
+ {
+  coords 1658.506 0 2231.801
+ }
 }
 GenericEntity : "{CF7A01BEC0259F4D}Custom Content/Cargo Ship/ShipEnt.et" {
  coords 1575.762 -11.471 2216.404

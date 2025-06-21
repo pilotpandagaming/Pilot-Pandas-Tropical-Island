@@ -1,7 +1,7 @@
 SatGenDescClass {
- FileName "C:/Users/PSI Media Server 1A/Downloads/BOSS MAP.png"
+ FileName "C:/Users/PSI Media Server 1A/Documents/tilw-terrain-tools-main/SeamlessSatmapTool/RESULT.png"
  sRGBOutput 0
- RenderRoads 0
- Interpolation bilinear
+ RenderRoads 1
+ Interpolation nearest
  RoadsAA "8x"
 }

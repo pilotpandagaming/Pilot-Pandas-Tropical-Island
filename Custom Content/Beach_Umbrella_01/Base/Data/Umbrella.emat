@@ -1,0 +1,5 @@
+MatPBRBasic {
+ RoughnessScale 5
+ BCRMap "{8EB23714D39F5B8E}Custom Content/Beach_Umbrella_01/Base/UmbrellaBaseColorRoughness_to_BCR_Map_BCR_Map_Output.edds"
+ NMOMap "{A9AB2CC22FB46405}Custom Content/Beach_Umbrella_01/Base/UmbrellaDirectX_Normal_Metal_Height_Occlusion_to_NMO_NHO_Map_NMO_NHO_Output.edds"
+}

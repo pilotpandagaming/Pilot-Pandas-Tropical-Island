@@ -1,0 +1,7 @@
+MatPBRBasic {
+ Color 1 0.881 0.671 1
+ Cull none
+ BCRMap "{3DA1051779977980}Misc Textures/brightsand.edds"
+ NormalPower 0.404
+ NMOMap "{3DA1051779977980}Misc Textures/brightsand.edds"
+}

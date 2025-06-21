@@ -1,0 +1,14 @@
+GenericEntity {
+ ID "65A977659E6DFFFA"
+ components {
+  MeshObject "{65A97765B8187443}" {
+   Object "{33A6737E6D1473E0}Custom Content/Sand_Castle/SandCastleTower.xob"
+  }
+  RigidBody "{65A97765B0B32AAA}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 2928.781 17.004 2821.49
+ scale 4.5
+}

@@ -1,0 +1,36 @@
+MetaFileClass {
+ Name "{33A6737E6D1473E0}Custom Content/Sand_Castle/SandCastleTower.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65A97760FFD3F7BC}" {
+     SourceMaterial "Material"
+     AssignedMaterial "{14BBD0CC588F87FC}Custom Content/Sand_Castle/Data/sand_castle.emat"
+    }
+   }
+   MeshParams {
+    MeshParam Tower {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_Tower {
+     SurfaceProperties {
+      "{039AB05DD92E078A}Material.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+  }
+  FBXResourceClass PS4 : PC {
+  }
+  FBXResourceClass PS5 : PC {
+  }
+  FBXResourceClass HEADLESS : PC {
+  }
+ }
+}
