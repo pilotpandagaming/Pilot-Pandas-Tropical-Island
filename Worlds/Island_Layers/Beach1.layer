@@ -14,16 +14,6 @@ $grp GenericEntity {
  }
  {
   components {
-   MeshObject "{65A058063050E4F1}" {
-    Object "{B88616214EF7265C}Assets/Structures/Infrastructure/Naval/Breakwater/BreakwaterStone_01_stack_wall.xob"
-   }
-  }
-  coords 929.042 2.045 2308.422
-  angleY -42.761
-  scale 2.259
- }
- {
-  components {
    MeshObject "{65A96308DAEE7A07}" {
     Object "{2D4C3C947FB85CCA}Assets/Props/Recreation/Beach/PedalBoat_01/PedalBoat_01.xob"
    }
@@ -54,9 +44,6 @@ GenericEntity : "{4923E218F59644B9}Prefabs/Props/Wrecks/BoatWreck_01.et" {
  coords 2892.53 1.612 2759.642
  angleX 21.265
 }
-Tree : "{6B66C6E17B34E6A0}Prefabs/Vegetation/Core/orange_palm2.et" {
- coords 568.659 0 1980.267
-}
 $grp GenericEntity : "{8528347E5F47F2A4}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_FIA.et" {
  {
   coords 2945.665 47.402 2762.204
@@ -71,17 +58,11 @@ $grp GenericEntity : "{8528347E5F47F2A4}PrefabsEditable/Auto/Structures/Military
   coords 2925.041 44.56 2873.88
  }
 }
-Tree : "{8EFA8A1877D171F5}Prefabs/Vegetation/Core/orange_palm3.et" {
- coords 578.328 0 1983.662
-}
 GenericEntity : "{A0FE92665EFAFB27}PrefabsEditable/Auto/Props/Wrecks/E_BoatWreck_01.et" {
  coords 2873.6 1.38 2782.056
  angleX 21.158
  angleY 26.556
  angleZ 4.51
-}
-Tree : "{EFD721166C3B0928}Prefabs/Vegetation/Core/Macarthur_Palm.et" {
- coords 555.135 0 1974.398
 }
 GenericEntity : "{FB1FFC7134FE0989}Custom Prefabs/SandCastle_Main.et" {
  coords 2933.959 15.192 2824.263

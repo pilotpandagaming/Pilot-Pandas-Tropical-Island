@@ -1,16 +1,18 @@
-$grp GenericEntity {
- {
-  components {
-   MeshObject "{65A771063ACD4E81}" {
-    Object "{F456C583D9E3984A}BeardLong.xob"
-   }
+GenericEntity {
+ components {
+  MeshObject "{65AB7EB25476B896}" {
+   Object "{8E04B6E49D0BEE73}Custom Content/CruiseShip/cruiseship.xob"
   }
-  coords 1988.929 43.852 1996.203
+  RigidBody "{65AB7EB2A1E80816}" {
+   ModelGeometry 1
+   Static 1
+  }
  }
- {
-  coords 1658.506 0 2231.801
- }
+ coords 3056.332 -15.233 1478.923
+ angleY 123.56
+ scale 1.1
 }
 GenericEntity : "{CF7A01BEC0259F4D}Custom Content/Cargo Ship/ShipEnt.et" {
- coords 1575.762 -11.471 2216.404
+ coords 514.834 -11.471 1130.731
+ angleY -150.06
 }
