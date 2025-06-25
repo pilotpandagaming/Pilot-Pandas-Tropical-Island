@@ -1,16 +1,6 @@
-GenericEntity {
- components {
-  MeshObject "{65AB7EB25476B896}" {
-   Object "{8E04B6E49D0BEE73}Custom Content/CruiseShip/cruiseship.xob"
-  }
-  RigidBody "{65AB7EB2A1E80816}" {
-   ModelGeometry 1
-   Static 1
-  }
- }
- coords 3056.332 -15.233 1478.923
- angleY 123.56
- scale 1.1
+SCR_DestructibleBuildingEntity : "{03CD92D04CA09CAD}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/GeraldFord_AircraftCarrier.et" {
+ coords 1388.009 73.882 322.212
+ angleY 85.047
 }
 GenericEntity : "{CF7A01BEC0259F4D}Custom Content/Cargo Ship/ShipEnt.et" {
  coords 514.834 -11.471 1130.731

@@ -1,0 +1,251 @@
+GenericEntity : "{0FB6C20679095D14}PrefabLibrary/Props/Garbage/Junk_01_single_bricks.et" {
+ coords 2209.619 58.441 2139.907
+ angleY -129.665
+}
+SCR_DestructibleBuildingEntity : "{1B2A41B36AC9768F}PrefabLibrary/Structures/Agriculture/SilageStorage_E_02.et" {
+ coords 2094.931 0 2134.054
+ angleY 11.744
+}
+$grp GenericEntity : "{26B52B03BB61795E}PrefabLibrary/Props/Industrial/CargoContainer_01_40ft/CargoContainer_01_40ft_green.et" {
+ {
+  coords 2196.275 58.375 2183.575
+  angleY -78.221
+ }
+ {
+  coords 2128.172 58.375 2196.788
+  angleY 101.087
+ }
+}
+GenericEntity : "{276365F1E957D1D6}PrefabLibrary/Props/Garbage/Junk_01_pile_large.et" {
+ coords 2200.74 58.375 2147.867
+ angleY 79.499
+}
+$grp GenericEntity : "{42A2D1BD123CB71A}PrefabLibrary/Props/Garbage/GarbageStack_01_Short.et" {
+ {
+  coords 2199.906 58.375 2143.668
+  angleY 11.525
+ }
+ {
+  coords 2182.613 60.834 2186.159
+  angleX -2.266
+  angleY 11.743
+  angleZ -1.61
+ }
+}
+SCR_DestructibleBuildingEntity : "{4B59AC03277A4A15}PrefabLibrary/Structures/Services/Office_E_01.et" {
+ coords 2207.783 0 2160.684
+ angleY -77.827
+}
+$grp SCR_DestructibleBuildingEntity : "{4DA887CD0BBD0A28}PrefabLibrary/Structures/Industrial/ShedMetal_02_short.et" {
+ {
+  coords 2109.471 0 2163.355
+  angleY 100.639
+  {
+   SCR_DestructibleBuildingEntity {
+    ID "55ECD1FB92847C41"
+    coords -12.57 -0.172 -7.381
+   }
+   SCR_DestructibleBuildingEntity {
+    ID "55ECD1FB92847C50"
+    coords -4.653 -0.22 -12.148
+   }
+   SCR_DestructibleBuildingEntity {
+    ID "647ECB52DFCB28CB"
+    coords -4.793 0 -7.171
+   }
+   SCR_DestructibleBuildingEntity {
+    ID "55ECD1FB92847C36"
+    coords 3.218 -0.182 -7.379
+   }
+  }
+ }
+ {
+  coords 2112.597 0 2179.999
+  angleY 100.639
+  {
+   SCR_DestructibleBuildingEntity {
+    ID "55ECD1FB92847C41"
+    coords -12.57 -0.172 -7.381
+   }
+   SCR_DestructibleBuildingEntity {
+    ID "55ECD1FB92847C50"
+    coords -4.653 -0.22 -12.148
+   }
+   SCR_DestructibleBuildingEntity {
+    ID "647ECB52DFCB28CB"
+    coords -4.793 0 -7.171
+   }
+   SCR_DestructibleBuildingEntity {
+    ID "55ECD1FB92847C36"
+    coords 3.218 -0.182 -7.379
+   }
+  }
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{53ED57F93F1DCE1F}PrefabLibrary/Structures/Industrial/Warehouse_01.et" {
+ {
+  coords 2129.68 0 2228.086
+  angleY 11.209
+ }
+ {
+  coords 2125.561 0 2207.617
+  angleY 10.718
+ }
+ {
+  coords 2198.802 0 2213.847
+  angleY -169.282
+ }
+ {
+  coords 2194.683 0 2193.378
+  angleY -168.791
+ }
+}
+$grp GenericEntity : "{66FF9BE6539065D2}PrefabLibrary/Props/Construction/ConcreteMixer_01.et" {
+ {
+  coords 2204.601 58.375 2123.078
+  angleY -77.824
+ }
+ {
+  coords 2203.855 58.375 2119.619
+  angleY -77.824
+ }
+ {
+  coords 2203.103 58.375 2116.135
+  angleY -77.824
+ }
+ {
+  coords 2202.307 58.375 2112.444
+  angleY -77.824
+ }
+}
+$grp GenericEntity : "{6F6317EC33722093}PrefabLibrary/Props/Industrial/CargoContainer_01_40ft/CargoContainer_01_40ft_grey.et" {
+ {
+  coords 2190.319 60.971 2184.561
+  angleX 0.001
+  angleY -80.745
+ }
+ {
+  coords 2115.093 58.375 2199.239
+  angleY -79.861
+ }
+}
+GenericEntity : "{6FD4315AF0CDA442}PrefabLibrary/Props/Industrial/Pallet_01_Pile.et" {
+ coords 2127.892 60.908 2196.602
+ angleY -80.682
+}
+$grp GenericEntity : "{862AAEEA1AB10496}PrefabLibrary/Props/Construction/BrickPile_01_Large.et" {
+ {
+  coords 2206.565 58.375 2132.824
+  angleY 12.05
+ }
+ {
+  coords 2206.091 58.375 2130.603
+  angleY 12.05
+ }
+ {
+  coords 2206.996 58.375 2134.842
+  angleY 12.05
+ }
+ {
+  coords 2207.47 58.375 2137.063
+  angleY 12.05
+ }
+ {
+  coords 2203.564 58.375 2135.575
+  angleY 12.05
+ }
+ {
+  coords 2204.038 58.375 2137.796
+  angleY 12.05
+ }
+ {
+  coords 2203.134 58.375 2133.557
+  angleY 12.05
+ }
+ {
+  coords 2202.659 58.375 2131.336
+  angleY 12.05
+ }
+ {
+  coords 2200.436 58.375 2136.243
+  angleY 12.05
+ }
+ {
+  coords 2200.909 58.375 2138.465
+  angleY 12.05
+ }
+ {
+  coords 2200.006 58.375 2134.226
+  angleY 12.05
+ }
+ {
+  coords 2199.53 58.375 2132.005
+  angleY 12.05
+ }
+ {
+  coords 2197.57 58.375 2136.855
+  angleY 12.05
+ }
+ {
+  coords 2198.043 58.375 2139.077
+  angleY 12.05
+ }
+ {
+  coords 2197.14 58.375 2134.838
+  angleY 12.05
+ }
+ {
+  coords 2196.664 58.375 2132.617
+  angleY 12.05
+ }
+}
+SCR_DestructibleBuildingEntity : "{9B4EE2EF2E6F986D}PrefabLibrary/Structures/Industrial/FactoryHall_E_01.et" {
+ coords 2116.361 58.375 2132.206
+ angleX 0.02
+ angleY 99.491
+}
+SCR_DestructibleBuildingEntity : "{AFB66B5D636927AD}PrefabLibrary/Structures/Industrial/Workshop_02.et" {
+ coords 2195.917 0 2105.023
+ angleY -73.79
+}
+$grp GenericEntity : "{B292AEB29FA68532}PrefabLibrary/Props/Construction/MetalContainer_01.et" {
+ {
+  coords 2207.513 58.375 2143.416
+  angleY -166.683
+ }
+ {
+  coords 2203.865 58.375 2144.28
+  angleY -166.683
+ }
+}
+GenericEntity : "{CB057766B806B3D1}PrefabLibrary/Props/Industrial/MarsBoxContainer_01_dst.et" {
+ coords 2135.062 58.375 2195.129
+ angleY 104.782
+}
+GenericEntity : "{CF482D1FBE0E8B14}PrefabLibrary/Props/Construction/SandPile_01.et" {
+ coords 2197.209 58.375 2118.881
+ angleY -121.93
+ scale 0.904
+}
+GenericEntity : "{D35F2E1ACDB77391}PrefabLibrary/Props/Construction/Wheelbarrow_01.et" {
+ coords 2191.142 58.375 2111.413
+ angleY -14.893
+}
+$grp GenericEntity : "{E8AD23C4B23D9826}PrefabLibrary/Props/Industrial/CargoContainer_01_40ft/CargoContainer_01_40ft_red.et" {
+ {
+  coords 2182.449 58.375 2186.307
+  angleY -79.837
+ }
+ {
+  coords 2121.135 60.967 2198.058
+  angleY -75.168
+ }
+}
+GenericEntity : "{F12538ECDBE9D02F}PrefabLibrary/Props/Garbage/Litter_01_small.et" {
+ coords 2203.795 58.441 2144.498
+ angleY 59.24
+}
+GenericEntity : "{F47C56E3678C7D87}PrefabLibrary/Props/Industrial/VehicleGarbage_01_pile_large.et" {
+ coords 2177.892 58.375 2185.291
+ angleY -83.003
+}

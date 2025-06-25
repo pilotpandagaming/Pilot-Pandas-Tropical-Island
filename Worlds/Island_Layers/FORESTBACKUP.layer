@@ -1,0 +1,158 @@
+$grp ForestGeneratorEntity {
+ GeneratorBU1 {
+  Flags 1048579
+  coords 1946.709 77.428 1397.431
+  m_aLevels {
+   ForestGeneratorTopLevel TopLevel {
+    m_aTreeGroups {
+     TreeGroupClass Group1 {
+      m_aTrees {
+       ForestGeneratorTree Item1 {
+       }
+       ForestGeneratorTree Item2 {
+       }
+       ForestGeneratorTree Item3 {
+       }
+       ForestGeneratorTree Item4 {
+       }
+       ForestGeneratorTree Item5 {
+       }
+       ForestGeneratorTree Item6 {
+       }
+      }
+     }
+    }
+   }
+   ForestGeneratorOutline Outline {
+    m_aTreeGroups {
+     TreeGroupClass Group1 {
+      m_aTrees {
+       ForestGeneratorTree Item1 {
+       }
+       ForestGeneratorTree Item2 {
+       }
+       ForestGeneratorTree Item3 {
+       }
+       ForestGeneratorTree Item4 {
+       }
+       ForestGeneratorTree Item5 {
+       }
+       ForestGeneratorTree Item6 {
+       }
+      }
+     }
+    }
+   }
+   ForestGeneratorBottomLevel BottomLevel {
+    m_aTreeGroups {
+     TreeGroupClass Group1 {
+      m_aTrees {
+       ForestGeneratorTree Item1 {
+       }
+       ForestGeneratorTree Item2 {
+       }
+       ForestGeneratorTree Item3 {
+       }
+       ForestGeneratorTree Item4 {
+       }
+       ForestGeneratorTree Item5 {
+       }
+       ForestGeneratorTree Item6 {
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+ GeneratorBU3 {
+  Flags 1048579
+  coords 1941.608 77.428 1397.431
+  m_aLevels {
+   ForestGeneratorTopLevel TopLevel {
+    m_aTreeGroups {
+     TreeGroupClass Group1 {
+      m_aTrees {
+       ForestGeneratorTree Item1 {
+        m_Prefab "{90148D927B1A6660}Prefabs/Vegetation/Core/Cocos_palm2.et"
+       }
+       ForestGeneratorTree Item2 {
+        m_Prefab "{7588C16B77FFF135}Prefabs/Vegetation/Core/Cocos_palm3.et"
+       }
+       ForestGeneratorTree Item3 {
+        m_Prefab "{74D63D24AC03314A}Prefabs/Vegetation/Core/Ficus1.et"
+       }
+       ForestGeneratorTree Item4 {
+        m_Prefab "{188209C410C7BE68}Prefabs/Vegetation/Core/Ficus2.et"
+       }
+       ForestGeneratorTree Item5 {
+        m_Prefab "{089D81F7EC9CB63F}Prefabs/Vegetation/Core/Kapok1.et"
+       }
+       ForestGeneratorTree Item6 {
+        m_Prefab "{0017018C98B504B5}Prefabs/Vegetation/Core/mangrove6.et"
+       }
+      }
+     }
+    }
+    m_fDensity 200
+   }
+   ForestGeneratorOutline Outline {
+    m_aTreeGroups {
+     TreeGroupClass Group1 {
+      m_aTrees {
+       ForestGeneratorTree Item1 {
+        m_Prefab "{70854D76ADAECA94}Prefabs/Vegetation/Core/Alocasia.et"
+       }
+       ForestGeneratorTree Item2 {
+        m_Prefab "{427AEB067387BA87}Prefabs/Vegetation/Core/Alocasia2.et"
+       }
+       ForestGeneratorTree Item3 {
+        m_Prefab "{0DBE021D812D2D9B}Prefabs/Vegetation/Core/oleander2.et"
+       }
+       ForestGeneratorTree Item4 {
+        m_Prefab "{61EA36FD3DE9A2B5}Prefabs/Vegetation/Core/oleander1.et"
+       }
+       ForestGeneratorTree Item5 {
+        m_Prefab "{FC20CAAAE253167C}Prefabs/Vegetation/Core/Licuala.et"
+       }
+       ForestGeneratorTree Item6 {
+        m_Prefab "{8EFA8A1877D171F5}Prefabs/Vegetation/Core/orange_palm3.et"
+       }
+      }
+     }
+    }
+   }
+   ForestGeneratorBottomLevel BottomLevel {
+    m_aTreeGroups {
+     TreeGroupClass Group1 {
+      m_aTrees {
+       ForestGeneratorTree Item1 {
+        m_Prefab "{70854D76ADAECA94}Prefabs/Vegetation/Core/Alocasia.et"
+       }
+       ForestGeneratorTree Item2 {
+        m_Prefab "{427AEB067387BA87}Prefabs/Vegetation/Core/Alocasia2.et"
+       }
+       ForestGeneratorTree Item3 {
+        m_Prefab "{06341BB3E44F4ACA}Prefabs/Vegetation/Core/Alsophilia2.et"
+       }
+       ForestGeneratorTree Item4 {
+        m_Prefab "{D58F154A47C4DC3C}Prefabs/Vegetation/Core/Bamboo1.et"
+        m_fWeight 2
+       }
+       ForestGeneratorTree Item5 {
+        m_Prefab "{5C476D53F7E5C47F}Prefabs/Vegetation/Core/Bamboo3.et"
+       }
+       ForestGeneratorTree Item6 {
+        m_Prefab "{0732F201C7F069B2}Prefabs/Vegetation/Core/orange_palm1.et"
+       }
+       ForestGeneratorTree Item7 {
+        m_Prefab "{0DBE021D812D2D9B}Prefabs/Vegetation/Core/oleander2.et"
+       }
+      }
+     }
+    }
+    m_fDensity 50
+   }
+  }
+ }
+}

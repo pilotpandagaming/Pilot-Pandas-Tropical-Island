@@ -2,8 +2,8 @@ TerrainMaterial {
  Color 0.88 0.856 0.833 1
  CastShadow 0
  SurfaceProperties "{1780FBB7FA2F25FC}Common/Materials/Game/asphalt.gamemat"
- BCRMap "{91390F6369C85FF4}Misc Textures/sand.edds"
- NHOMap "{91390F6369C85FF4}Misc Textures/sand.edds"
+ BCRMap "{91390F6369C85FF4}Misc Textures/sand_BCR.edds"
+ NHOMap "{91390F6369C85FF4}Misc Textures/sand_BCR.edds"
  DielectricReflectance 0.02
  ScaleUV 6
  ParallaxScale 0.01
@@ -11,8 +11,8 @@ TerrainMaterial {
  LocalShadowBias 0.5
  DetailMaxDistance 500
  DetailBlendDistance 450
- BCRMiddleMap "{91390F6369C85FF4}Misc Textures/sand.edds"
- NHOMiddleMap "{91390F6369C85FF4}Misc Textures/sand.edds"
+ BCRMiddleMap "{91390F6369C85FF4}Misc Textures/sand_BCR.edds"
+ NHOMiddleMap "{91390F6369C85FF4}Misc Textures/sand_BCR.edds"
  MiddleScaleUV 50
  MiddleNOBlend 0.4
  MiddleBCRBlend 0.4

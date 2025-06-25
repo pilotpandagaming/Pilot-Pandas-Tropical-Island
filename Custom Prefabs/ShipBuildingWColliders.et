@@ -1,0 +1,18 @@
+SCR_DestructibleBuildingEntity {
+ ID "65AF4D2820B08C5C"
+ components {
+  MeshObject "{65AF4D2FEAEAA745}" {
+   Object "{890C16348A10EF86}Custom Content/Cargo Ship/ship.xob"
+  }
+  RigidBody "{65AF4D2FFBF773E4}" {
+   Geometries {
+    PhysicsModelGeometry "{65AF4D2FC699F4CF}" {
+     Collider "UTM_Ship_01"
+    }
+   }
+   Static 1
+  }
+ }
+ coords 2559.88 0 2051.148
+ scale 10
+}

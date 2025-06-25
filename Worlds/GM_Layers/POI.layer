@@ -1,0 +1,105 @@
+$grp GenericEntity : "{1D81B694F0503127}Prefabs/Systems/MilitaryBase/ConflictMilitaryBasePOI.et" {
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_sBaseName "Control Point 1"
+    m_sBaseNameUpper "Control Point 1"
+    m_sMapLocationName "Control Point 1"
+   }
+   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
+    "faction affiliation" "FIA"
+   }
+  }
+  coords 1519.412 7.018 2621.78
+ }
+ {
+  coords 3486.833 85.408 2677.252
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_sBaseName "Control Point 3"
+    m_sBaseNameUpper "Control Point 3"
+    m_sMapLocationName "Control Point 3"
+   }
+  }
+  coords 3628.496 126.001 1847.665
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_sBaseName "Control Point 4"
+    m_sBaseNameUpper "Control Point 4"
+    m_sMapLocationName "Control Point 4"
+   }
+  }
+  coords 1979.594 68.781 1255.37
+ }
+ {
+  components {
+   SCR_ResourceComponent "{5D587B89D3599C99}" {
+    m_aGenerators {
+     SCR_ResourceGenerator "{5D587B8946012988}" {
+      m_eResourceRights SELF
+      m_eIdentifier DEFAULT_STORAGE
+      m_fResourceMultiplier 0.1
+      m_ContainerQueue SCR_ResourceGeneratorContainerQueue "{5D587B897464DC74}" {
+       m_StoragePolicies {
+        SCR_ResourceGeneratorStoragePolicy "{5D587B8960E7515A}" {
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+  coords 436.872 126.406 2007.483
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_sBaseName "Control Point 6"
+    m_sBaseNameUpper "Control Point 6"
+    m_sMapLocationName "Control Point 6"
+   }
+  }
+  coords 2157.515 58.375 2156.436
+ }
+ {
+  components {
+   SCR_ResourceComponent "{5D587B89D3599C99}" {
+    m_aConsumers {
+     SCR_ResourceConsumer "{5D587B89CC7DB94C}" {
+      m_eResourceRights FACTION
+     }
+    }
+    m_aGenerators {
+     SCR_ResourceGenerator "{5D587B8946012988}" {
+      m_fResourceMultiplier 0
+     }
+    }
+   }
+  }
+  coords 2897.098 16.889 2857.586
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_sBaseName "Control Point 8"
+    m_sBaseNameUpper "Control Point 8"
+    m_sMapLocationName "Control Point 8"
+   }
+  }
+  coords 3819.547 86.082 3825.507
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_sBaseName "Control Point 9"
+    m_sBaseNameUpper "Control Point 9"
+    m_sMapLocationName "Control Point 9"
+   }
+  }
+  coords 2415.147 26.532 3540.595
+ }
+}

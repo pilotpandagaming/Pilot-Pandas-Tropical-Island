@@ -1,0 +1,59 @@
+MetaFileClass {
+ Name "{D5BBE5E22A61528E}Custom Content/Blimp/blimp.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{65AF6AFB0633D3BE}" {
+     SourceMaterial "__Gray_Glass_"
+     AssignedMaterial "{9F9F61B33F023781}Custom Content/Blimp/Data/Test.emat"
+    }
+    MaterialAssignClass "{65AF6AFB0633D3BB}" {
+     SourceMaterial "material"
+     AssignedMaterial "{9F9F61B33F023781}Custom Content/Blimp/Data/Test.emat"
+    }
+    MaterialAssignClass "{65AF6AFB0633D3CA}" {
+     SourceMaterial "__Yellow_"
+     AssignedMaterial "{6AF9534DB64DE898}Custom Content/Blimp/Data/1.emat"
+    }
+    MaterialAssignClass "{65AF6AFB0633D3C6}" {
+     SourceMaterial "__Silver_"
+     AssignedMaterial "{34117A0E09C06697}Custom Content/Blimp/Data/2.emat"
+    }
+    MaterialAssignClass "{65AF6AFEE95FA012}" {
+     SourceMaterial "COC"
+     AssignedMaterial "{D5788C6793B97AC1}Custom Content/Blimp/Data/Logo.emat"
+    }
+    MaterialAssignClass "{65AF6AFCFB4F2BD6}" {
+     SourceMaterial "basket"
+     AssignedMaterial "{CBA978C26655A631}Custom Content/Blimp/Data/basket.emat"
+    }
+   }
+   MeshParams {
+    MeshParam group_0 {
+    }
+   }
+   Common TXOCommonClass "{65AF6AFB060AC60C}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{65AF6AFB060AF941}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{65AF6AFB060AF908}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{65AF6AFB060AF8D7}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{65AF6AFB060AF8AE}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{65AF6AFB060AF882}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

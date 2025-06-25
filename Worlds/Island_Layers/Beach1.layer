@@ -18,8 +18,8 @@ $grp GenericEntity {
     Object "{2D4C3C947FB85CCA}Assets/Props/Recreation/Beach/PedalBoat_01/PedalBoat_01.xob"
    }
   }
-  coords 2616.909 8.595 3018.412
-  angleX 28.488
+  coords 2617.136 7.4 3019.061
+  angleX 5.519
   angleZ -9.483
  }
  {
@@ -28,20 +28,36 @@ $grp GenericEntity {
 }
 $grp GenericEntity : "{36A06917108045B4}Custom Prefabs/SandCaslte_Tower.et" {
  {
+  components {
+   RplComponent "{65B2143EDD3EA692}" {
+   }
+  }
   coords 2925.082 13.645 2874.136
  }
  {
+  components {
+   RplComponent "{65B2143ED85856E7}" {
+   }
+  }
   coords 2881.364 12.836 2833.824
  }
  {
+  components {
+   RplComponent "{65B2143EC7B99A6B}" {
+   }
+  }
   coords 2985.379 18.702 2804.414
  }
  {
-  coords 2945.775 16.523 2762.565
+  components {
+   RplComponent "{65B2143EC264E72E}" {
+   }
+  }
+  coords 2945.775 7.439 2762.565
  }
 }
 GenericEntity : "{4923E218F59644B9}Prefabs/Props/Wrecks/BoatWreck_01.et" {
- coords 2892.53 1.612 2759.642
+ coords 2892.53 11.87 2759.642
  angleX 21.265
 }
 $grp GenericEntity : "{8528347E5F47F2A4}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_FIA.et" {
@@ -59,12 +75,16 @@ $grp GenericEntity : "{8528347E5F47F2A4}PrefabsEditable/Auto/Structures/Military
  }
 }
 GenericEntity : "{A0FE92665EFAFB27}PrefabsEditable/Auto/Props/Wrecks/E_BoatWreck_01.et" {
- coords 2873.6 1.38 2782.056
+ coords 2873.6 11.638 2782.056
  angleX 21.158
  angleY 26.556
  angleZ 4.51
 }
 GenericEntity : "{FB1FFC7134FE0989}Custom Prefabs/SandCastle_Main.et" {
+ components {
+  RplComponent "{65B2143EC44A8064}" {
+  }
+ }
  coords 2933.959 15.192 2824.263
  angleY -132.742
 }

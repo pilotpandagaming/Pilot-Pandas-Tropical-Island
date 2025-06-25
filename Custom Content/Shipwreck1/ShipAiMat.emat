@@ -1,5 +1,5 @@
 MatPBRBasic {
  Cull none
- BCRMap "{4F58133691C93920}Custom Content/Shipwreck1/BCRAISTANDARD.edds"
+ BCRMap "{4F58133691C93920}Custom Content/Shipwreck1/BCRAISTANDARD_BCR.edds"
  NormalPower 0.5
 }

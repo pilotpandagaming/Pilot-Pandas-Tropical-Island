@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3394E0ADD82C6269}Map Images/GM.topo"
+ Configurations {
+  MapTopoResourceClass PC {
+  }
+  MapTopoResourceClass XBOX_ONE : PC {
+  }
+  MapTopoResourceClass XBOX_SERIES : PC {
+  }
+  MapTopoResourceClass PS4 : PC {
+  }
+  MapTopoResourceClass PS5 : PC {
+  }
+  MapTopoResourceClass HEADLESS : PC {
+  }
+ }
+}

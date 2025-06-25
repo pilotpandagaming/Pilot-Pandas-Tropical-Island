@@ -3,6 +3,6 @@ MatPBRBasic {
  Cull none
  CavityFromAO 0
  GlobalLayerNormalPower 0.5
- BCRMap "{3FC8EA121881927E}Shipwreck1/4k/BCR2.edds"
+ BCRMap "{3FC8EA121881927E}Custom Content/Shipwreck1/4k/BCR2_BCR.edds"
  NormalPower 0.176
 }

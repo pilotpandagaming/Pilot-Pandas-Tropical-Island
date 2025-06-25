@@ -1,0 +1,5 @@
+SCR_DestructibleBuildingEntity : "{2D0A93C80A6A5C5D}Prefabs/Structures/Infrastructure/Naval/Piers/PierWooden_02/PierWooden_02_bridge.et" {
+ ID "F0DBA538AC2A0552"
+ coords 0.229 0 1
+ angleY 36.542
+}

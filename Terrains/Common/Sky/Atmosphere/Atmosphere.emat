@@ -1,0 +1,5 @@
+MatAtmosphere : "{621C7F2EC2763297}Terrains/Common/Sky/Atmosphere/Atmosphere.emat" {
+ AerialPerspectiveRaymarchDistance 500
+ FogLV 20
+ HorizonFogScale 9.76
+}

@@ -1,0 +1,13 @@
+GenericEntity {
+ ID "65AD0B041C5D3239"
+ components {
+  MeshObject "{65AD0B05526BD609}" {
+   Object "{F3A0722184007C99}Custom Content/Shipwreck1/ShipWreckedWithCollider.xob"
+  }
+  RigidBody "{65AD0B05E00531BE}" {
+  }
+ }
+ coords 2441.546 -1.904 1896.331
+ angleX -17.684
+ scale 13.17
+}

@@ -1,45 +1,45 @@
 MetaFileClass {
- Name "{E2DF0A2E512A2AD0}Custom Content/Cargo Ship/ship.xob"
+ Name "{890C16348A10EF86}Custom Content/Cargo Ship/ship.xob"
  Configurations {
   FBXResourceClass PC {
    MaterialAssigns {
-    MaterialAssignClass "{65A1315621AA4A09}" {
+    MaterialAssignClass "{65AF4D2C871F568E}" {
      SourceMaterial "RustAmbientOcclusion"
      AssignedMaterial "{E0FD139AA72F16C1}Custom Content/Cargo Ship/Data/RustAmbientOcclusion.emat"
     }
-    MaterialAssignClass "{65A1315621AA4DF7}" {
+    MaterialAssignClass "{65AF4D2C871F567E}" {
      SourceMaterial "RustBlackCLone"
      AssignedMaterial "{AE70914AAC8DAC5F}Custom Content/Cargo Ship/Data/RustBlackCLone.emat"
     }
-    MaterialAssignClass "{65A1315621AA4DF3}" {
+    MaterialAssignClass "{65AF4D2C871F567B}" {
      SourceMaterial "ShinyMetal"
      AssignedMaterial "{8841B8D1A05C7976}Custom Content/Cargo Ship/Data/ShinyMetal.emat"
     }
-    MaterialAssignClass "{65A1315621AA4DF1}" {
+    MaterialAssignClass "{65AF4D2C871F5678}" {
      SourceMaterial "MetalPaintRust"
      AssignedMaterial "{B12679C5B3A55875}Custom Content/Cargo Ship/Data/MetalPaintRust.emat"
     }
-    MaterialAssignClass "{65A1315621AA4DEE}" {
+    MaterialAssignClass "{65AF4D2C871F5676}" {
      SourceMaterial "GenericGrey"
      AssignedMaterial "{1AB27B9B99D5AED3}Custom Content/Cargo Ship/Data/GenericGrey.emat"
     }
-    MaterialAssignClass "{65A1315621AA4DEA}" {
+    MaterialAssignClass "{65AF4D2C871F5671}" {
      SourceMaterial "LightGrey"
-     AssignedMaterial "{86BC6AC032A2B556}Custom Content/Cargo Ship/test.emat"
+     AssignedMaterial "{973BC50B91D184D5}Custom Content/Cargo Ship/Data/LightGrey.emat"
     }
-    MaterialAssignClass "{65A1315621AA4DE8}" {
+    MaterialAssignClass "{65AF4D2C871F566E}" {
      SourceMaterial "ShinyGrey"
      AssignedMaterial "{D436884023AA999B}Custom Content/Cargo Ship/Data/ShinyGrey.emat"
     }
-    MaterialAssignClass "{65A1315621AA4DE6}" {
+    MaterialAssignClass "{65AF4D2C871F566C}" {
      SourceMaterial "TexturesComVents00021maskedS"
      AssignedMaterial "{22A96BD0C835E82D}Custom Content/Cargo Ship/Data/TexturesComVents00021maskedS.emat"
     }
-    MaterialAssignClass "{65A1315621AA4DE2}" {
+    MaterialAssignClass "{65AF4D2C871F5666}" {
      SourceMaterial "TexturesComVents02091maskedS"
      AssignedMaterial "{696292EB1B48F430}Custom Content/Cargo Ship/Data/TexturesComVents02091maskedS.emat"
     }
-    MaterialAssignClass "{65A1315621AA4DDF}" {
+    MaterialAssignClass "{65AF4D2C871F5663}" {
      SourceMaterial "TexturesComDecalsRusted00301maskedS"
      AssignedMaterial "{43031331769614EB}Custom Content/Cargo Ship/Data/TexturesComDecalsRusted00301maskedS.emat"
     }
@@ -58,27 +58,27 @@ MetaFileClass {
      Margin 0
     }
    }
-   Common TXOCommonClass "{65A1315621BA40D3}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   Common TXOCommonClass "{65AF4D2C87716E0D}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
    }
   }
   FBXResourceClass XBOX_ONE : PC {
-   Common TXOCommonClass "{65A1315621BA405C}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   Common TXOCommonClass "{65AF4D2C8771BDAB}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
    }
   }
   FBXResourceClass XBOX_SERIES : PC {
-   Common TXOCommonClass "{65A1315621BA4018}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   Common TXOCommonClass "{65AF4D2C8771BCEB}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
    }
   }
   FBXResourceClass PS4 : PC {
-   Common TXOCommonClass "{65A1315621BA43F0}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   Common TXOCommonClass "{65AF4D2C8771BC72}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
    }
   }
   FBXResourceClass PS5 : PC {
-   Common TXOCommonClass "{65A1315621BA43C9}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   Common TXOCommonClass "{65AF4D2C8771BC06}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
    }
   }
   FBXResourceClass HEADLESS : PC {
-   Common TXOCommonClass "{65A1315621BA43A2}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   Common TXOCommonClass "{65AF4D2C8771BFC1}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
    }
   }
  }

@@ -3,6 +3,12 @@ Tree {
  components {
   MeshObject "{65AB4C2FF8E532AB}" {
    Object "{F9DB89BDEABD436A}Assets/Vietnam/TROPICAL TREE/Cocos_palm/Cocos_palm2.xob"
+   Materials {
+    MaterialAssignClass "{65AD0B0799976C22}" {
+     SourceMaterial "Cocos_leaves"
+     AssignedMaterial "{0FCC661AA8FCF0E2}Assets/Vegetation/Cuttings/Data/Cocos_palm.emat"
+    }
+   }
   }
   RigidBody "{65AB4C2FF8E532A5}" {
    ModelGeometry 1
@@ -10,6 +16,8 @@ Tree {
   }
  }
  Flags 524289
+ coords 0 1 0
+ CollisionVelocityThreshold 1
  Occlusion 80
  SoundType Bush
 }

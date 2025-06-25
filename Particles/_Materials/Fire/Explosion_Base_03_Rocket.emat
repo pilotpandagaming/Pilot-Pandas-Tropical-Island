@@ -1,0 +1,13 @@
+Particle {
+ AlbedoMap "{15B73CC044934F74}Particles/_Textures/Flame_Loop_03_BCA.edds"
+ Emissive 1 1 1 0
+ EmissiveLV 15
+ AlphaToEmissiveLV FromAlphaGraphs
+ ReceiveShadow 1
+ BlendMode Additive_AlphaModulate
+ TileU 8
+ TileV 8
+ SphereSizeMultiplier 0.4
+ Softness 0.1
+ CameraBlendFar 0.2
+}

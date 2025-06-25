@@ -1,0 +1,39 @@
+GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
+ ID "5AFC9B0D8792F4E2"
+ components {
+  SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+   m_bIsControlPoint 1
+   m_bCanBeHQ 0
+   m_sBaseName "Control Point 5"
+   m_sBaseNameUpper "Control Point 5"
+   m_sMapLocationName "Control Point 5"
+  }
+  SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+   Enabled 1
+  }
+  SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
+   Enabled 0
+  }
+  SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
+   "faction affiliation" "FIA"
+  }
+ }
+ {
+  GenericEntity {
+   ID "5CCED514A5908822"
+   components {
+    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+     m_bPickRandomGroupType 1
+    }
+   }
+  }
+  GenericEntity {
+   ID "606078EE23DE48AC"
+   components {
+    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+     m_bPickRandomGroupType 1
+    }
+   }
+  }
+ }
+}

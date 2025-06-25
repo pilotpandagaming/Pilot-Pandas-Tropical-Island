@@ -1,0 +1,28 @@
+MatPBRTreeCrown {
+ Color 0.342 0.342 0.342 1
+ SpecularIBL 0.628 0.706 0.374 1
+ SpecularMul 0.175
+ RoughnessScale 1.234
+ MetalnessScale 1.175
+ AOScale 0.397
+ BCRMap "{DDAFEE602EA27BBD}Assets/Vietnam/TROPICAL TREE/Cocos_palm/Data/cocos_leaves.edds"
+ OpacityMap "{D72EC6CA789676D7}Assets/Vietnam/TROPICAL TREE/Cocos_palm/Data/cocos_leavesOPC.edds"
+ NormalPower 2.074
+ NTCMap "{A2925D39212F128F}Assets/Vietnam/TROPICAL TREE/Cocos_palm/Data/cocos_leaves_nmp.edds"
+ WindPerlinDirAff 0.776
+ WindLocalSpeed 0.617
+ WindSmoothness 0.796
+ WindLocalBranchSpeed 0.584
+ WindLocalBranchLength 0.168
+ GeometryAODistance 2
+ GeometryAOIntensity 0.6
+ EllipsoidAOCenter 0 0.7 0
+ EllipsoidAOWidth 1.8
+ EllipsoidAOIntensity 0.15
+ EnableColorization Full
+ AllowStartColor 1
+ ThicknessScale 0.7
+ SSSIndirectionIntensity 0.5
+ SSSColor 0.392 0.392 0.392 1
+ SSSColorMultiply 1
+}

@@ -1,0 +1,43 @@
+SCR_PlayerController : "{A1AE127F16DD352E}Prefabs/Characters/Core/DefaultPlayerControllerMP_Factions.et" {
+ ID "1A9BA6BEFA06E3B1"
+ components {
+  SCR_CampaignFastTravelComponent "{5DAA74121E45C2EB}" {
+   m_iDistanceToTarget 50
+  }
+  SCR_CampaignFeedbackComponent "{65B24A4CDF3EBAB6}" {
+  }
+  SCR_CampaignNetworkComponent "{65B24A4CDF3EBAAC}" {
+  }
+  SCR_CampaignTaskNetworkComponent "{65B24A4CDF3EBAAB}" {
+  }
+  SCR_HUDManagerComponent "{2FDC275D9EBCDB8B}" {
+   InfoDisplays {
+    SCR_InfoDisplayExtended "{5CEAB7FB9DF29AC5}" {
+     InfoDisplays {
+      SCR_GameVersion "{5CEEED01D0496A4B}" {
+       m_LayoutPath "{803222101FA2B6DC}UI/layouts/Common/GameVersionWatermarkPanda.layout"
+      }
+     }
+    }
+    // SCR_CampaignInfoDisplay "{65B24A4CDF3EBAA5}" {
+    //  m_LayoutPath "{47864BB47AB0B1F4}UI/layouts/HUD/CampaignMP/CampaignMainHUD.layout"
+    //  m_eLayer MEDIUM
+    //  m_bShowWhenCreated 0
+    //  m_bAdaptiveOpacity 1
+    // }
+    SCR_CampaignMapInfoDisplay "{65B24A4CDF3EBA9E}" {
+     m_LayoutPath "{D74D24696C4F32F0}UI/layouts/HUD/CampaignMP/CampaignMenuScoreUI.layout"
+     m_eLayer ALWAYS_TOP
+     m_bShowWhenCreated 0
+     m_eShow 15
+    }
+   }
+  }
+  SCR_SpawnerRequestComponent "{65B24A4CDF3EBA98}" {
+  }
+  SCR_TaskNetworkComponent "{55CEA00373C0B879}" {
+   Enabled 0
+  }
+ }
+ coords 414.49 -0.015 359.73
+}

@@ -1,0 +1,6 @@
+MatPBRBasic {
+ Emissive 0.087 0.087 0.087 0
+ EmissiveLV 2.383
+ EmissiveMap "{9AC59AE5DBB58809}Custom Content/Blimp/logo2.edds"
+ BCRMap "{9AC59AE5DBB58809}Custom Content/Blimp/logo2.edds"
+}

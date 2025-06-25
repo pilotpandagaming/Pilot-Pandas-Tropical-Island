@@ -1,3 +1,42 @@
-SCR_GameModeEditor GameMode_Editor_Full1 : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
- coords 1057.526 181.975 3762.2
+SCR_AIWorld SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
+ coords 2026.552 36.695 2116.227
+ {
+  CommentEntity {
+   coords 0 1 0
+   m_Comment "SCR_AIWorld: "\
+   "Configure navigation mesh"
+   m_Color 0 0 0
+   m_FaceCamera 1
+   m_TextBackground 1
+   m_BackgroundColor 1 0.6 0
+   m_BackgroundTransparency 0
+  }
+ }
+}
+PerceptionManager PerceptionManager : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 2026.552 36.636 2115.227
+}
+SCR_GameModeCampaign GameMode_Campaign : "{3B230AAC5252108F}Prefabs/MP/Modes/Conflict/GameMode_Campaign.et" {
+ coords 2026.552 36.589 2114.227
+}
+SCR_CampaignFactionManager CampaignFactionManager : "{F1AC26310BAE3788}Prefabs/MP/Campaign/CampaignFactionManager.et" {
+ coords 2026.552 36.758 2117.227
+ {
+  CommentEntity {
+   coords 0 1 0
+   m_Comment "CampaignFactionManager: "\
+   "Make sure one faction is non-playable to use for Independent units."
+   m_Color 0 0 0
+   m_FaceCamera 1
+   m_TextBackground 1
+   m_BackgroundColor 1 0.6 0
+   m_BackgroundTransparency 0
+  }
+ }
+}
+SCR_BaseTaskManager CampaignTaskManager : "{17E3EF2CF455460F}Prefabs/MP/Campaign/CampaignTaskManager.et" {
+ coords 2026.552 36.82 2118.227
+}
+SCR_LoadoutManager CampaignLoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManager.et" {
+ coords 2026.552 36.883 2119.227
 }

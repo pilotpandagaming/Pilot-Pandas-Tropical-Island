@@ -1,5 +1,5 @@
 SCR_MapEntity : "{731564B66F91B107}Prefabs/World/Game/MapEntity.et" {
  ID "5255036BAB847859"
- "Map Geometry Data" "{0DD089CCD442399A}worlds/Arland/Arland.topo"
- "Satellite background image" "{F98F3D2CBA523091}UI/Textures/Map/worlds/Arland/ArlandRasterized.edds"
+ "Map Geometry Data" "{5398E71C09738916}Worlds/TestMaping/GM.topo"
+ "Satellite background image" "{6AA3CB5AD5B8EFC9}Misc Textures/BOSS MAP_BCR.edds"
 }

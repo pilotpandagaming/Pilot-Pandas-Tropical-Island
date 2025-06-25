@@ -1,0 +1,16 @@
+GenericEntity {
+ ID "65B166A880F81C80"
+ components {
+  SCR_EntitySpawnerSlotComponent "{65B166A880F81C8B}" {
+   m_eSlotType VEHICLE_MEDIUM
+   m_vMinBounds -2 0 -4
+   m_vMaxBounds 2 4 4
+  }
+  RplComponent "{65B166A880F81C90}" {
+  }
+  Hierarchy "{65B166A880F81C96}" {
+   Enabled 1
+  }
+ }
+ coords 2.66 0 1.326
+}

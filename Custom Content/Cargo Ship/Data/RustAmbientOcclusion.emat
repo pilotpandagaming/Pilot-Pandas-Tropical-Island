@@ -1,3 +1,4 @@
 MatPBRBasic {
- BCRMap "{5653A95827643A50}Cargo Ship/ShipTextures/Metal Paint Rust_diffuse.edds"
+ BCRMap "{5653A95827643A50}Custom Content/Cargo Ship/ShipTextures/Metal Paint Rust_diffuse_BCR.edds"
+ UVSrcGlobalMaps "UV set 2"
 }

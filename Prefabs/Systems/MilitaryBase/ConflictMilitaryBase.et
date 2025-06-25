@@ -1,0 +1,23 @@
+GenericEntity {
+ ID "5AFC9B0D8792F4E2"
+ components {
+  SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+   m_bCanBeHQ 1
+   m_sBaseName "MOB"
+   m_sBaseNameUpper "MOB"
+   m_sMapLocationName "HQ"
+  }
+  SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+   Enabled 0
+  }
+  SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
+   "Turned on" 1
+   Transceivers {
+    RelayTransceiver "{5C669673E8C94083}" {
+     "Transmitting Range" 4111.9
+    }
+   }
+   m_bIsSource 1
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{0FCC661AA8FCF0E3}Assets/Vegetation/Cuttings/Data/Cocos_palm.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
